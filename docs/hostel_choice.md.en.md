@@ -18,7 +18,7 @@ Before submitting your application, you must honestly evaluate whether you are p
 Living on campus is a significant investment. Below are the fees for the 2025-2026 academic year:
 
 | Location | Room | Charge |
-| --- | ---- | ---- |
+| :--- | :----: | ----: |
 | Hall A - F | Double Room | $$7,875 ／ semester |
 | Hall G - H, WHC, WJY | Double Room | $8,700 ／ semester |
 | Hall G - H, WHC, WJY | Triple Room | $6,430 ／ semester|
