@@ -4,6 +4,9 @@ theme:
   name: material
   language: zh  # 這裡一定要維持 zh
   custom_dir: overrides
+  features:
+    - navigation.tabs
+    - header.links.language
 
 plugins:
   - search
