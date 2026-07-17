@@ -1,25 +1,31 @@
 site_name: Guidebook for Lingnan Students
+
 theme:
   name: material
-nav:
-  - 首頁: index.md
-  - 學習建議:
-    - 如何成為嶺南大學頭1%的學生: top1pect.md
-  - 健康:
-    - 在嶺南健身: workout.md
-  - 文集:
-    - 沒有人會記得第二名: Honor.md
-    - 如何優雅地在度過四年大學生活: good_life.md
+  language: zh  # 改回標準的 zh
+  custom_dir: overrides
+
 plugins:
   - search
   - i18n:
-      docs_structure: suffix  # 或使用 folder
-      default_language: en
       languages:
-        - locale: en
+        - locale: tc
+          name: 繁體中文
           default: true
+          build: true
+        - locale: sc
+          name: 简体中文
+          build: true
+        - locale: en
           name: English
           build: true
-        - locale: zh
-          name: 繁體中文
-          build: true
+
+nav:
+  - 首頁 Home: index.md
+  - 學習建議 Academic Advice:
+    - 如何成為嶺南大學頭1%的學生 How to Beomce a Top 1% student: top1pect.md
+  - 健康 Well-being:
+    - 在嶺南健身 Workout in Lingnan: workout.md
+  - 文集 Art Work:
+    - 沒有人會記得第二名 Everyone only remembers the winner: Honor.md
+    - 如何優雅地在度過四年大學生活 How to Live Gracefully Through Four Years of University: good_life.md
