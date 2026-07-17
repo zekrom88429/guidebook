@@ -2,7 +2,7 @@ site_name: Guidebook for Lingnan Students
 
 theme:
   name: material
-  language: zh  # 改回標準的 zh
+  language: zh
   custom_dir: overrides
 
 plugins:
