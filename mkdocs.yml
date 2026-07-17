@@ -1,7 +1,6 @@
 site_name: Guidebook for Lingnan Students
 theme:
   name: material
-  language: zh
 nav:
   - 首頁: index.md
   - 如何成為嶺南大學頭1%的學生: top1pect.md
