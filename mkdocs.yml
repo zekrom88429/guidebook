@@ -10,3 +10,16 @@ nav:
   - 文集:
     - 沒有人會記得第二名: Honor.md
     - 如何優雅地在度過四年大學生活: good_life.md
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix  # 或使用 folder
+      default_language: en
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: zh
+          name: 繁體中文
+          build: true
