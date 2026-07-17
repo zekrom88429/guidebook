@@ -15,3 +15,5 @@ Getting access is easy:
 **Method 2:** Sign up for the ILP bodybuilding class, but note that you’ll have to wait a week for access.
 
 So, what are you waiting for? Let’s get started on that fitness journey!
+
+作者：``Wilson``
