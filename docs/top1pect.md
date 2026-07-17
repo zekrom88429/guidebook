@@ -1,5 +1,3 @@
-## 如何成為嶺南大學頭1%的學生
-
 1. 盡量加入唔同嘅活動校內有非常多的活動。可以認識新朋友做networking. （做President or smth or competition)
 2. 跟Professor打好關係，尤其是係自己Faculty嘅
 3. GPA一定要chur高，佢咁先有獎學金/獎狀囉。至少3.5以上。
