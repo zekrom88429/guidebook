@@ -19,6 +19,9 @@ plugins:
         - locale: en
           name: English
           build: true
+      docs_structure: suffix
+
+site_url: https://zekrom88429.github.io/guidebook/
 
 nav:
   - 首頁 Home: index.md
