@@ -1,7 +1,8 @@
-Over the past four years at Lingnan University, we have faced countless choices—from small decisions like what to have for lunch to major ones like applying for exchange programs. Every decision requires careful deliberation and sufficient information; one wrong move could mean missing out on a valuable opportunity.
+![](https://www.ln.edu.hk/f/page/108364/3560c1426/LU_Front_Door.webp)
+在岭南大学的四年里，我们面临无数抉择——小至午餐的选择，大至交换生的申请。每一次决定，都需要充足的资讯与权衡；稍有不慎，或许就会与机会擦身而过。
 
-I once nearly missed the application deadline for the Data Science minor, submitting it with only two hours to spare. To ensure our fellow students don’t repeat my mistakes, we created this platform to serve as the ultimate 'Survival Guide' for Lingnan University. Here, we have gathered insights and experiences from those who have walked this path before, helping you gather comprehensive information to make the best decisions for yourself.
+我就曾因轻忽了数据科学副修的申请期限，直到截止前两小时才惊险赶上。为了不让同学重蹈复辙，我们建立了这个平台，旨在成为最实用的岭南大学生存指南。这里汇集了过来人的经验与洞见，助你更全面地收集资讯，做出最适合自己的决定。
 
-You can browse all articles using the links in the sidebar.
+在侧栏看到所有文章的键结，可以一一浏览。
 
-Feel free to click this [link](https://forms.cloud.microsoft/r/TJxutisnVs) to submit your own contributions.
+你可按 [这个键结](https://forms.cloud.microsoft/r/TJxutisnVs) 为我们投稿。

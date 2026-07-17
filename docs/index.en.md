@@ -1,8 +1,8 @@
 ![](https://www.ln.edu.hk/f/page/108364/3560c1426/LU_Front_Door.webp)
-在嶺南大學的四年裡，我們面臨無數抉擇——小至午餐的選擇，大至交換生的申請。每一次決定，都需要充足的資訊與權衡；稍有不慎，或許就會與機會擦身而過。
+Over the past four years at Lingnan University, we have faced countless choices—from small decisions like what to have for lunch to major ones like applying for exchange programs. Every decision requires careful deliberation and sufficient information; one wrong move could mean missing out on a valuable opportunity.
 
-我就曾因輕忽了數據科學副修的申請期限，直到截止前兩小時才驚險趕上。為了不讓同學重蹈覆轍，我們建立了這個平台，旨在成為最實用的嶺南大學生存指南。這裡匯集了過來人的經驗與洞見，助你更全面地收集資訊，做出最適合自己的決定。
+I once nearly missed the application deadline for the Data Science minor, submitting it with only two hours to spare. To ensure our fellow students don’t repeat my mistakes, we created this platform to serve as the ultimate 'Survival Guide' for Lingnan University. Here, we have gathered insights and experiences from those who have walked this path before, helping you gather comprehensive information to make the best decisions for yourself.
 
-在側欄看到所有文章的鍵結，可以一一瀏覽。
+You can browse all articles using the links in the sidebar.
 
-你可按 [這個鍵結](https://forms.cloud.microsoft/r/TJxutisnVs) 為我們投稿。
+Feel free to click this [link](https://forms.cloud.microsoft/r/TJxutisnVs) to submit your own contributions.
