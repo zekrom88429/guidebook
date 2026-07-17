@@ -35,3 +35,5 @@ The Hidden Challenges
 ### Conclusion
 Apply if: You crave independence, want to build deep social connections, and are excited to embrace the dynamic culture of hall life.
 Consider Commuting if: You place a high premium on personal privacy and quiet, or if you need to prioritize financial stability for your family. There is no shame in choosing to commute; it is often the most practical and mature decision depending on your personal circumstances.
+
+- By: Daniel
