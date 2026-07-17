@@ -36,6 +36,8 @@ plugins:
           name: English
           build: true
 
+use_directory_urls: true
+
 nav:
   - 首頁 Home: index.md
   - 學習建議 Academic Advice:
