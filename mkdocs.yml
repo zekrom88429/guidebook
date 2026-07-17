@@ -8,6 +8,18 @@ theme:
     - navigation.tabs
     - header.links.language
 
+extra:
+  alternate:
+    - name: 繁體中文
+      link: /
+      lang: zh-Hant
+    - name: 简体中文
+      link: /zh-Hans/
+      lang: zh-Hans
+    - name: English
+      link: /en/
+      lang: en
+
 plugins:
   - search
   - i18n:
