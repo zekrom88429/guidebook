@@ -2,5 +2,12 @@ site_name: Guidebook for Lingnan Students
 theme:
   name: material
 nav:
-  - 首頁: index.md
-  - 如何成為嶺南大學頭1%的學生: top1pect.md
+  - 繁體中文:
+    - 首頁: inedex.md
+    - 如何成為嶺南大學頭1%的學生: top1pect.md
+  - 簡體中文:
+    - 首页: inedex.md
+    - 如何成为岭南大学头1%的学生: top1pect.md
+  - English:
+    - Home: index.md
+    - How to become a top 1% student in Lingnan University: top1pect.md
