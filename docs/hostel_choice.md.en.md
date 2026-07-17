@@ -18,7 +18,7 @@ Before submitting your application, you must honestly evaluate whether you are p
 Living on campus is a significant investment. Below are the fees for the 2025-2026 academic year:
 
 | Location | Room | Charge |
-| :--- | :----: | ----: |
+| --- | --- | --- |
 | Hall A - F | Double Room | $$7,875 ／ semester |
 | Hall G - H, WHC, WJY | Double Room | $8,700 ／ semester |
 | Hall G - H, WHC, WJY | Triple Room | $6,430 ／ semester|
@@ -26,6 +26,7 @@ Living on campus is a significant investment. Below are the fees for the 2025-20
 Each semester lasts approximately three months. Air conditioning fees are split among roommates. While internet and basic electricity are included, you will need to budget for daily essentials like laundry detergent, cleaning supplies, and toiletries.
 
 The Hidden Challenges
+
 - The "Roommate Lottery": You cannot choose your roommates. Differences in lifestyle, sleeping habits, or study routines can easily lead to conflict.
 - Loss of Privacy: Hostel life is inherently communal. True solitude and total quiet are rare luxuries.
 - Increased Responsibility: There is no one to do your laundry or tidy your room. You must manage your own chores and daily maintenance.
