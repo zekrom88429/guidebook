@@ -17,9 +17,12 @@ Before submitting your application, you must honestly evaluate whether you are p
 1. Financial Commitment
 Living on campus is a significant investment. Below are the fees for the 2025-2026 academic year:
 
+| Location | Room | Charge |
+| --- | ---- | ---- |
 | Hall A - F | Double Room | $$7,875 ／ semester |
 | Hall G - H, WHC, WJY | Double Room | $8,700 ／ semester |
 | Hall G - H, WHC, WJY | Triple Room | $6,430 ／ semester|
+
 Each semester lasts approximately three months. Air conditioning fees are split among roommates. While internet and basic electricity are included, you will need to budget for daily essentials like laundry detergent, cleaning supplies, and toiletries.
 
 The Hidden Challenges
