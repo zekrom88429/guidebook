@@ -40,6 +40,8 @@ use_directory_urls: true
 
 nav:
   - 首頁 Home: index.md
+  - 新生須知 Guide for Freshman:
+    - 該不該住校？ Shouid you apply for studnet hostel?: hostel_choice.md
   - 學習建議 Academic Advice:
     - 如何成為嶺南大學頭1%的學生 How to Beomce a Top 1% student: top1pect.md
   - 健康 Well-being:
