@@ -2,26 +2,23 @@ site_name: Guidebook for Lingnan Students
 
 theme:
   name: material
-  language: zh
+  language: zh  # 這裡一定要維持 zh
   custom_dir: overrides
 
 plugins:
   - search
   - i18n:
       languages:
-        - locale: tc
+        - locale: zh-Hant
           name: 繁體中文
           default: true
           build: true
-        - locale: sc
+        - locale: zh-Hans
           name: 简体中文
           build: true
         - locale: en
           name: English
           build: true
-      docs_structure: suffix
-
-site_url: https://zekrom88429.github.io/guidebook/
 
 nav:
   - 首頁 Home: index.md
