@@ -2,7 +2,7 @@ site_name: Guidebook for Lingnan Students
 theme:
   name: material
 nav:
-  - 首頁: tc/index.md
+  - 首頁: index.md
   - 繁體中文:
     - 首頁: tc/index.md
     - 如何成為嶺南大學頭1%的學生: tc/top1pect.md
