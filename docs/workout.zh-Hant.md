@@ -1,19 +1,19 @@
-Have you heard about the new 24-hour fitness rooms popping up in Hong Kong? Let me tell you why they’re gaining popularity!
+你有聽說過香港最近如雨後春筍般出現的 24 小時健身室嗎？讓我告訴你它們為何如此受歡迎！
 
-First off, working out helps you build a great physique. With some muscle training, you can get that toned look and maybe even score a six-pack! Feeling good about your body boosts your confidence, and you’ll be more comfortable rocking tighter shirts and cap sleeves. Plus, it shows off your commitment to fitness, which can help you feel more confident overall.
+首先，健身能幫助你塑造出色的體態。通過一些肌肉訓練，你可以練出結實的線條，甚至可能練出六塊腹肌！對自己的身體感到滿意會增強信心，讓你在穿著緊身衣或無袖上衣時更加自在。此外，展現對健身的堅持也能讓你在整體上更有自信。
 
-Second, let’s talk health. Research shows that having strong forearms can lead to a longer life, and more muscle helps you manage your weight thanks to an increased metabolism. Strong muscles also improve bone density, reducing your risk of fractures.
+其次，來談談健康。研究顯示，擁有強壯的前臂有助於長壽，而增加肌肉量能提升新陳代謝，從而幫助體重管理。強壯的肌肉還能改善骨密度，降低骨折的風險。
 
-So many benefits from hitting the gym! Plus, most exercises are simple and repetitive, making them easy to learn.
+健身的好處實在太多了！而且大部分運動動作簡單且重複，非常容易上手。
 
-Now, why Lingnan gym? It’s super affordable at just HKD 3, which is cheaper than many gyms, and there’s no time limit!
+那麼，為什麼選擇嶺南大學的健身室呢？因為它超級實惠，每次只需港幣 3 元，比市面上許多健身房都便宜，而且沒有時間限制！
 
-Getting access is easy:
+獲取使用權限很簡單：
 
-**Method 1:** Join a briefing at the Indoor Sports Complex (Table Tennis Room). After the briefing, just fill out a form, and you’ll get access the next day. **Pro Tip:** Check the counter for briefing times so you don’t miss it!
+**方法一：** 參加室內運動場（乒乓球室）舉行的簡介會。簡介會後填寫表格，隔天即可獲得使用權限。**專家提示：** 記得查看櫃檯的簡介會時間表，以免錯過！
 
-**Method 2:** Sign up for the ILP bodybuilding class, but note that you’ll have to wait a week for access.
+**方法二：** 報名參加 ILP 健身課程，但請注意，你需要等待一週才能獲得權限。
 
-So, what are you waiting for? Let’s get started on that fitness journey!
+所以，還在等什麼？讓我們一起開始健身之旅吧！
 
-作者：``Wilson``
+作者：Wilson（經AI翻譯）
