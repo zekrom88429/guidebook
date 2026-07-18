@@ -30,7 +30,7 @@ The Hidden Challenges
 - The "Roommate Lottery": You cannot choose your roommates. Differences in lifestyle, sleeping habits, or study routines can easily lead to conflict.
 - Loss of Privacy: Hostel life is inherently communal. True solitude and total quiet are rare luxuries.
 - Increased Responsibility: There is no one to do your laundry or tidy your room. You must manage your own chores and daily maintenance.
-- The End-of-Term "Move-out": At the end of every semester, you are required to pack up all your belongings and move out, which can be logistically challenging.
+- The End-of-Term "Move-out": At the end of semester two, you are required to pack up all your belongings and move out, which can be logistically challenging.
 
 ### Conclusion
 Apply if: You crave independence, want to build deep social connections, and are excited to embrace the dynamic culture of hall life.
