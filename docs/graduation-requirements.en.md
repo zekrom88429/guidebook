@@ -64,7 +64,7 @@ Before graduating, you **must enroll in and pass at least one Service Learning (
 
 The ILP (Integrated Learning Programme) comprises out-of-class holistic learning activities provided by the university. For every hour of participation, you earn 1 ILP point.
 
-### 🔍 The 6 ILP Categories
+### The 6 ILP Categories
 *   **CELD**: Civic Education and Leadership Development
 *   **IED**: Intellectual and Entrepreneurship Development
 *   **SEW**: Social and Emotional Well-being
@@ -72,7 +72,7 @@ The ILP (Integrated Learning Programme) comprises out-of-class holistic learning
 *   **AD**: Aesthetic Development
 *   **RE**: Residential Education
 
-### 📈 Requirements for Freshmen vs. Senior-year Intakes
+### Requirements for Freshmen vs. Senior-year Intakes
 
 *   **4-Year Undergraduate Freshmen:**
     *   **Core Requirements:** You **must earn at least 5 points in each** of the six categories (30 points total).

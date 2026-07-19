@@ -86,7 +86,7 @@ ILP（Integrated Learning Programme）是学校提供的课外全人学习活动
 ### 如何记录分数？
 *   **实体活动：** 活动开始和结束时，现场会展示 QR Code，请务必用手机扫描登记。
 *   **线上活动：** 透过 Zoom 进行，系统会自动记录出席时间。
-*   **关键步骤：** 活动完结后一星期内，你的电邮会收到 **Evaluation Form** 和 **Reflection Report**。只有在完成填写并呈交后，ILP 分数才会正式记录到你的帐户中！**
+*   **关键步骤：** 活动完结后一星期内，你的电邮会收到 **Evaluation Form** 和 **Reflection Report**。只有在完成填写并呈交后，ILP 分数才会正式记录到你的帐户中！
 
 ## 资讯科技能力（ITFP）
 
