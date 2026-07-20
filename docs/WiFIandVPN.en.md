@@ -29,7 +29,7 @@ Lingnan University provides five Wi-Fi options to meet your networking needs bot
 
 Certain key administrative resources (such as accessing Course Outlines, the Counselling Services Booking System, and applying for courses that are already full) are restricted to the campus internal network. When you are off campus, follow these steps to use the VPN:
 
-1.  **Install the App:** Download **F5 Big-IP Edge Client** or **F5 Access** from the official [ITSC VPN webpage](https://www.ln.edu.hk/cht/itsc/services/network/vpn-connection).
+1.  **Install the App:** Download **F5 Big-IP Edge Client** or **F5 Access** from the official [VPN webpage](https://www.ln.edu.hk/cht/itsc/services/network/vpn-connection).
 2.  **Server Setup:** Open the app, enter `https://studentvpn2.ln.edu.hk` as the server address, and click **"Connect"**.
 3.  **Authentication:** Enter your login credentials and complete the **2FA (Two-Factor Authentication)**.
 4.  **Manage Connection:** Always click **"Disconnect"** once you have finished your tasks.
