@@ -10,8 +10,8 @@ Using the suffix of "en", "zh-Hans" and "zh-Hant" to lable different language ve
 2. Update the Navigation (```Nav```)
 To make your new file appear in the sidebar, open the mkdocs.yml file in the root directory and add your file path under the nav section:
 
-```nav:```
-```  - Home: index.md```
+```nav:```<br>
+```  - Home: index.md```<br>
 ```  - New Feature: new-feature.md```
 
 3. Commit and Push
