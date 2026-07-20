@@ -34,7 +34,7 @@ Suppose you take 5 courses this semester, each worth 3 credits (15 credits in to
 
 *   **Total Weighted Points:** 45.9
 *   **Total Credits:** 15
-*   **Your cGPA:** $45.9 / 15 = 3.06$
+*   **Your cGPA:** 45.9 / 15 = 3.06
 
 ---
 
@@ -46,7 +46,7 @@ All students must fulfill the language requirement by either passing the **Passw
 
 | Assessment | Attempt Requirements | Graduation Score Threshold | Fees & Resources |
 | :--- | :--- | :--- | :--- |
-| **Password Test**<br>*(Easier, but has limited external recognition)* | <ul><li>**4-Year Undergraduate Students:** Take it twice in Year 1 and twice in Year 3–4 (4 times total).</li><li>**Direct Entry / Senior-year Intake:** Take it once in Year 3 and once in Year 4 (2 times total).</li></ul> | **6.5** | Arranged and funded by the university. |
+| **Password Test**<br>*(Easier, but has limited external recognition)* | <ul><li>**4-Year Undergraduate Students:** Take it twice in Year 1 and twice in Year 3–4 (4 times total).</li><li>**Direct Entry / Senior-year Intake:** Take it once in Year 3 and once in Year 4 (2 times total).</li></ul> | <ul><li>**Most Majors:** 6.5</li><li>**Department of Chinese:** 6.0</li><li>**Department of English / Translation:** 7.0</li></ul> | Arranged and funded by the university. |
 | **IELTS**<br>*(Globally recognized; can be taken anytime during your studies)* | All 4-year and Senior-year Intake students. | <ul><li>**Most Majors:** 6.5</li><li>**Department of Chinese:** 6.0</li><li>**Department of English / Translation:** 7.0</li></ul> | <ul><li>On-campus computer-based test fee is waived.</li><li>Off-campus test registration fees can be subsidized.</li></ul> |
 
 *   **Official Preparation Resources:** The university provides [Online IELTS Resources](https://www.ln.edu.hk/ceal/f/page/110086/Online%20IELTS%20Resources.pdf) for candidates. You can also make full use of the [support services](https://elss.ln.edu.hk/services/) offered by the ELSS (English Language Support Service) to boost your English proficiency.
@@ -89,6 +89,16 @@ The ILP (Integrated Learning Programme) comprises out-of-class holistic learning
 *   **In-person Activities:** A QR code will be displayed at the beginning and end of the event. Make sure to scan it with your phone to check in and out.
 *   **Online Activities:** Conducted via Zoom; the system will automatically log your attendance duration.
 *   **The Crucial Step:** Within a week after the event ends, you will receive an **Evaluation Form** and a **Reflection Report** in your university email. **Your ILP points will ONLY be officially credited to your account after you complete and submit both forms!**
+
+### How to Register for Activities & Earn ILP Points?
+
+The university mainly distributes ILP activity information opportunities through **three main channels**:
+
+| Channel | Description & Key Takeaways |
+| :--- | :--- |
+| **1. Online Central Registration** | At the beginning of each semester, the university holds a **centralized registration period**. You will need to log into the system and select your preferred ILP activities, just like course registration.<br> **Note:** Quotas are limited and offered on a **first-come, first-served** basis, so be sure to act fast! |
+| **2. Email Notifications** | Various university departments and organizations will **send event invitations via email from time to time**. Make sure to check your university inbox regularly! |
+| **3. Joining University Teams** | If you become an official team member and maintain an **attendance rate of 80% or above**, you can earn a substantial amount of ILP points directly:<br><ul><li>**Sports Teams:** Awarded **12 PFW points** directly (Physical Fitness and Well-being).</li><li>**Cultural Teams:** Awarded **12 AD points** directly (Aesthetic Development).</li></ul> |
 
 ## Information Technology Fluency Programme (ITFP)
 
