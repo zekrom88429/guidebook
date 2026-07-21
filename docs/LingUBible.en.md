@@ -1,6 +1,6 @@
  **[LingUBible](https://www.lingubible.com/)** is a platform built by a Lingnan student, for Lingnan students, already trusted by **200+ students**. It helps you **choose courses smarter**, **plan your semester faster**, and **stress less about grades**.
 
-![meta-image](../img/lingubible/meta-image.png)
+![meta-image](/img/lingubible/meta-image.png)
 
 ## 🌟 LingUBible Key Features 🌟
 
