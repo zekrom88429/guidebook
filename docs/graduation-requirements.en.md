@@ -79,7 +79,7 @@ The ILP (Integrated Learning Programme) comprises out-of-class holistic learning
     *   **Free Electives:** You must accumulate an additional **30 points** from any category of your choice.
     *   *Total baseline requirement: 60 points.*
 *   **Direct Entry / Senior-year Intake Students:**
-    *   You only need to meet the core requirement of 3 points per category (30 points total). You are **exempt** from the 30 free elective points.
+    *   You only need to meet the core requirement of 3 points per category (18 points total). You are **exempt** from the 30 free elective points.
 
 ### Adjustments
 *   **Absence from NSO:** If you miss the New Student Orientation without a valid reason, your graduation requirement will **increase by an extra 15 points** of Free Electives.
