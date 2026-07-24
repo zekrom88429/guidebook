@@ -23,6 +23,7 @@ extra:
 
 plugins:
   - search
+  - meta-descriptions
   - i18n:
       languages:
         - locale: zh-Hant
