@@ -77,7 +77,7 @@ ILP（Integrated Learning Programme）是学校提供的课外全人学习活动
     *   **自由选修（Free Electives）：** 在任何类别的活动中再累积 **30 分**。
     *   *总计基本要求：60 分。*
 *   **高年级入学学生（Direct Entry）：**
-    *   只需满足六个类别各取 5 分的要求，**豁免** 30 分的 Free Electives 要求。
+    *   只需满足六个类别各取 3 分的要求，**豁免** 30 分的 Free Electives 要求。
 
 ### 增减分机制
 *   **不参加迎新活动（NSO）：** 若无故缺席 New Student Orientation，毕业要求将**额外增加 15 分**的 Free Electives 时数。
