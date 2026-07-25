@@ -25,7 +25,7 @@ Lingnan University provides five Wi-Fi options to meet your networking needs bot
 
 > **Pro Tip:** `eduroam` is available at participating universities worldwide; `University via CSL` is primarily deployed across Hong Kong university campuses, making it perfect for cross-institutional study.
 
-## Campus VPN (Essential for Off-Campus Access)
+## Campus VPN
 
 Certain key administrative resources (such as accessing Course Outlines, the Counselling Services Booking System, and applying for courses that are already full) are restricted to the campus internal network. When you are off campus, follow these steps to use the VPN:
 
