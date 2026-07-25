@@ -47,3 +47,5 @@ If you are using a computer in the student hostel, the wired network provides a 
 ### Important Regulations
 *   **No Private Networking Equipment:** Installing your own routers, range extenders/repeaters, or network-attached storage (NAS) devices in the dormitories is strictly prohibited.
 *   **Device Restrictions:** The wired network is intended for computers with a web browser. Devices without a browser interface—such as network printers, IP cameras, or TV boxes—are not supported.
+
+By: Daniel
