@@ -1,4 +1,4 @@
-site_name: Guidebook for Lingnan Students
+site_name: 給嶺南學生的指南 A Student’s Guide to Lingnan University
 site_url: https://zekrom88429.github.io/guidebook/
 
 theme:
@@ -53,10 +53,12 @@ nav:
     - LingUBible 你的嶺南選課好幫手 Your Course Companion at Lingnan: LingUBible.md
     - 如何成為嶺南大學頭 1% 的學生 How to Become a Top 1% student: top1pect.md
     - 如何更有效地學習 How to study more effectively: study_advice.md
-  - 健康 Well-being:
+  - 生活和健康 Life and Health:
     - 在嶺南健身 Workout in Lingnan: workout.md
     - 嶺南大學的牙科服務 Dental Clinic in Lingnan University: Dental_Clinic.md
     - 屯門區的餐廳 Places to eat at Tuen Mun District: restaurant.md
+  - 學生社團 Student Societies:
+    - 通訊錄 Contact of Student Societies: contact.md
   - 文集 Art Work:
     - 沒有人會記得第二名 Everyone only remembers the winner: Honor.md
     - 如何優雅地在度過四年大學生活 How to Live Gracefully Through Four Years of University: good_life.md
