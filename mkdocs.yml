@@ -1,13 +1,30 @@
-site_name: 給嶺南學生的指南 A Student’s Guide to Lingnan University
+site_name: A Student’s Guide to Lingnan University
 site_url: https://zekrom88429.github.io/guidebook/
 
 theme:
   name: material
-  language: zh  # 這裡一定要維持 zh
+  language: zh
   custom_dir: overrides
+  palette:
+    - scheme: default
+      primary: purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+        accent: indigo
   features:
     - navigation.tabs
     - header.links.language
+    - navigation.instant
+    - navigation.tracking
+  logo: logo.png
+  favicon: logo.png
 
 extra:
   alternate:
@@ -20,6 +37,9 @@ extra:
     - name: English
       link: /guidebook/en/
       lang: en
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
