@@ -19,9 +19,14 @@ theme:
         name: Switch to light mode
         accent: indigo
   features:
+    - navigation.instant
     - navigation.tabs
-    - header.links.language
     - navigation.tracking
+    - navigation.prune
+    - navigation.top
+    - header.links.language
+    - content.action.edit
+    - content.code.copy
   logo: img/logo/logo.svg
   favicon: img/logo/logo.svg
 
@@ -36,6 +41,15 @@ extra:
     - name: English
       link: /guidebook/en/
       lang: en
+  comments:
+    provider: giscus
+    repository: zekrom88429/guidebook
+    repository-id: R_kgDOTbk8eA
+    category: General
+    category-id: DIC_kwDOTbk8eM4DBaXd
+    mapping: url
+    reactions-enabled: 1
+    theme: preferred_color_scheme
 
 extra_css:
   - stylesheets/extra.css
