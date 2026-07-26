@@ -22,8 +22,8 @@ theme:
     - navigation.tabs
     - header.links.language
     - navigation.tracking
-  logo: img/logo/Logo.svg
-  favicon: img/logo/Logo.svg
+  logo: img/logo/logo.svg
+  favicon: img/logo/logo.svg
 
 extra:
   alternate:
