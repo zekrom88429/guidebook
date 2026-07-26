@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+  {% if page.meta.comments or (config.extra.comments and not page.meta.comments is sameas false) %}
+    <h2 id="__comments">Comments</h2>
+    {% if config.extra.comments.provider == "giscus" %}
+      <script src="https://giscus.app/client.js"
+              data-repo="{{ config.extra.comments.repository }}"
+              data-repo-id="{{ config.extra.comments['repository-id'] }}"
+              data-category="{{ config.extra.comments.category }}"
+              data-category-id="{{ config.extra.comments['category-id'] }}"
+              data-mapping="{{ config.extra.comments.mapping }}"
+              data-reactions-enabled="{{ config.extra.comments['reactions-enabled'] }}"
+              data-theme="{{ config.extra.comments.theme }}"
+              crossorigin="anonymous"
+              async>
+      </script>
+    {% endif %}
+  {% endif %}
+{% endblock %}
