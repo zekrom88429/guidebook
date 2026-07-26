@@ -23,7 +23,6 @@ theme:
     - navigation.tabs
     - navigation.tracking
     - navigation.prune
-    - navigation.top
     - header.links.language
     - content.action.edit
     - content.code.copy
