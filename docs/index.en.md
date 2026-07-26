@@ -1,8 +1,18 @@
-![](https://www.ln.edu.hk/f/page/108364/3560c1426/LU_Front_Door.webp)
-Over the past four years at Lingnan University, we have faced countless choices—from small decisions like what to have for lunch to major ones like applying for exchange programs. Every decision requires careful deliberation and sufficient information; one wrong move could mean missing out on a valuable opportunity.
+This is a campus survival guide written by Lingnan seniors, specifically crafted for you. Entering university is often accompanied by confusion and challenges; therefore, we have compiled this practical handbook to help you make the most of your four years at Lingnan University.
 
-I once nearly missed the application deadline for the Data Science minor, submitting it with only two hours to spare. To ensure our fellow students don’t repeat my mistakes, we created this platform to serve as the ultimate 'Survival Guide' for Lingnan University. Here, we have gathered insights and experiences from those who have walked this path before, helping you gather comprehensive information to make the best decisions for yourself.
+Here, you can find everything you need to know about campus life:
 
-You can browse all articles using the links in the sidebar.
+| Chapter | Key Content |
+| :--- | :--- |
+| **[Guide for Freshman](Registration.md)** | Quick Start: Registration procedures, campus facilities, and essential info. |
+| **[Academic Advice](LingUBible.md)** | Academic Navigation: Course selection, library resources, and study strategies. |
+| **[Life & Health](workout.md)** | Balance: Dorm life, healthy eating, and personal well-being. |
+| **[Student Societies](contact.md)** | Community: Club introductions, extracurriculars, and expanding your social circle. |
+| **[Ark Work](Honor.md)** | Inspiration: Creative writing and shared experiences from students. |
 
-Feel free to click this [link](https://forms.cloud.microsoft/r/TJxutisnVs) to submit your own contributions.
+The vitality of this guide stems from the contributions of every Lingnan student. We look forward to hearing your voice to ensure our content reflects the true needs of our community.
+
+*   **Submissions & Feedback**: If you have unique insights or a campus story to share, please feel free to submit via [Microsoft Forms](https://forms.cloud.microsoft/r/TJxutisnVs).
+*   **Reader Community**: Want to exchange ideas or discuss trending topics with fellow students? Join our [Reader Discussion Group](#) (Click the link to join).
+
+We hope this guide provides a helping hand throughout your university journey. Wishing you a fulfilling and memorable four years at Lingnan!

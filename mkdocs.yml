@@ -21,7 +21,6 @@ theme:
   features:
     - navigation.tabs
     - header.links.language
-    - navigation.instant
     - navigation.tracking
 
 extra:
