@@ -23,8 +23,6 @@ theme:
     - header.links.language
     - navigation.instant
     - navigation.tracking
-  logo: logo.png
-  favicon: logo.png
 
 extra:
   alternate:
