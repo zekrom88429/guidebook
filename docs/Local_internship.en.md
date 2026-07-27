@@ -3,7 +3,7 @@ Last reviewed: date needed
 **Audience：** All 
 
 
-Since the market is bringing more concerns in practical experience,having an
+Since the market is bringing more concerns in practical experience, having an
 internship is very important.
 
 No matter what year are you, having an internship should be a must.
@@ -11,7 +11,7 @@ No matter what year are you, having an internship should be a must.
 ![Image of employment](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbeRyxvLzkOT1aUIGUkz1pmqS02GeJhvsAcoiY0zlzBQ&s=10)
 photo from: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbeRyxvLzkOT1aUIGUkz1pmqS02GeJhvsAcoiY0zlzBQ&s=10
 
-Today, this wiki page is to introduce the internships available at Lingnan University.
+Today, this wiki page is to introduce the local internships available at Lingnan University.
 
 Here are the internships available:
 1. STEM Internship Scheme/ ITC stem internship programe
@@ -29,10 +29,10 @@ The ITC STEM Internship Scheme is a local summer internship scheme for students 
 ### Quick checklist
 
 - [ ] Check whether your programme is eligible. 
-- [ ] Prepare a resume and basic personal information.
 - [ ] Join the briefing session.
+- [ ] Prepare a resume and basic personal information.
 - [ ] Submit the application form before the deadline.
-- [ ] For non-local students, check whether you have a valid No Objection Letter (NOL). 
+- [ ] For non-local students, check whether you have a valid No Objection Letter (NOL) please see [Things you should know](#things-you-should-know). 
 
 ### Key details
 
@@ -44,24 +44,16 @@ The ITC STEM Internship Scheme is a local summer internship scheme for students 
 - **Allowance:** HKD 393 per day  (Verify with Lingnan University before acting.)
 - **Eligible students:** Students studying STEM-related programmes. 
 
-### Non-local students
-
-- Non-local students should check the latest employment and internship rules before applying. 
-- A valid **No Objection Letter (NOL)** is required before starting work in Hong Kong. 
-- For study-related internships outside the summer period, prior endorsement and approval from the School or department may be required. 
-- Adequate lead time is important because approval and immigration processing may take several weeks. 
-
 ### Application process
 
-1. Check the programme details and timeline on the official page. 
-2. Join the information session or briefing session if available.
-3. Complete the application form.
-4. Prepare the required materials, which may include:
+1. Join the information session or briefing session if available.
+2. Complete the application form.
+3. Prepare the required materials, which may include:
    - Basic personal information.
    - Resume.
    - A short response on what you hope to gain from the internship.
    - Preferred job roles.
-5. Submit the form before the stated deadline.
+4. Submit the form before the stated deadline.
 
 ### Before the internship
 
@@ -110,7 +102,7 @@ The Local Summer Internship Programme (LSIP) is a programme that aims to provide
 - **Eligible students:** Students who are fluent in **English** and **Chinese**
 
 
-### Application process
+### Application Process
 
 1. Fill out the **Online** application form. (University VPN required)
    a. Online Application Form (Main Stream) for main stream students
@@ -156,7 +148,7 @@ The GOVT programe is offered by the HKSAR government aiming to give summer inter
 
 ### Key Details
 
-- **Start time:** Not fixed please check JIP regularly
+- **Start time:** Not fixed please check [JIP](https://www.ln.edu.hk/osa/jip) regularly
 - **Mode:** Usually full time (Not Stated in the website)
 - **Location:** Local 
 - **Internship period:** Depend on the job you are in
@@ -175,14 +167,23 @@ Normally it would include.
 2. Your photo
 3. Academic Transcript
 
+### Notes 
+
+#### Government Internship Nomination Process
+
+The nomination process is handled by OSA Career Advising Services. The exact selection method may vary depending on the number of applicants, available vacancies, and requirements of individual departments.
+
+- Eligibility screening: OSA reviews applicants’ qualifications and application materials.
+- Selection & matching: Suitable candidates may be selected based on eligibility, skills, and internship requirements.
+- Additional assessment: Some specialised positions may require interviews or skill assessments.
+- Final decision: OSA Career Advising Services makes the final nomination arrangement.
+
+Advice: Prepare a strong CV and highlight relevant skills, especially for specialised roles such as data science, IT, or research.
+
 ### Official Source
 - Lingnan University Government Post-Secondary Student Summer Internship Programme [GOVT](https://www.ln.edu.hk/osa/career/govt)
 
-
-
 ## Things you should know
-
-
 ### How to get an academic transcript
 
 Step 1:
@@ -225,3 +226,14 @@ Each workshop = 1 ILP unit
 **Details** 
 - [PTP programe](https://osa.ln.edu.hk/files/PTP_info_20260401.pdf)
 - email subject: [Online Mode Available till 31 August 2026] Pre-Internship Training Programme (PTP) - to fulfil Prerequisite for OSA internship programmes and subsidy application in 2025-26
+
+
+### Non-local students
+
+- Non-local students should check the latest employment and internship rules before applying. 
+- A valid **No Objection Letter (NOL)** is required before starting work in Hong Kong. 
+- For study-related internships outside the summer period, prior endorsement and approval from the School or department may be required. 
+- Adequate lead time is important because approval and immigration processing may take several weeks. 
+
+#### Ending
+Thank you for reading this wiki page I hope you all to get your desired interns.
