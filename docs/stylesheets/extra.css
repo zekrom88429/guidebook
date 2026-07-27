@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap');
-
-:root {
-  --md-text-font: 'Noto Sans TC', sans-serif;
-  --md-code-font: 'Roboto Mono', monospace;
+body {
+  font-family: "Noto Sans", "Noto Sans TC", "Noto Sans SC", sans-serif;
+  line-height: 1.6;
+  letter-spacing: 0.02em;
 }

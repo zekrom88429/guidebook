@@ -5,6 +5,9 @@ theme:
   name: material
   language: zh
   custom_dir: overrides
+  font:
+    text: "Noto Sans"
+    code: "Roboto Mono"
   palette:
     - scheme: default
       primary: purple
@@ -85,6 +88,7 @@ nav:
     - LingUBible 你的嶺南選課好幫手 Your Course Companion at Lingnan: LingUBible.md
     - 如何成為嶺南大學頭 1% 的學生 How to Become a Top 1% student: top1pect.md
     - 如何更有效地學習 How to study more effectively: study_advice.md
+    - 本地實習計劃 Local Internship Opportunities Guide : Local_internship.md
   - 生活和健康 Life and Health:
     - 在嶺南健身 Workout in Lingnan: workout.md
     - 嶺南大學的牙科服務 Dental Clinic in Lingnan University: Dental_Clinic.md
