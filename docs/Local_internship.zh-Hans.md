@@ -18,7 +18,7 @@
 5.  **必要要求：** 如获入围，你**必须**完成[职前实习培训计划 (PTP)](#pre-internship-training-programme-ptp)，并满足学生事务处 (OSA) 的其他相关要求。
 6.  **非本地学生：** 请参阅有关[工作要求](#non-local-students)的规定。
 
------
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbeRyxvLzkOT1aUIGUkz1pmqS02GeJhvsAcoiY0zlzBQ&s=10)
 
 ## Local Summer Internship Programme (LSIP / 本地暑期实习计划)
 LSIP 专注于提升学生的职场适应力和专业技能，从而增强毕业后的就业竞争力。该计划设有「主流」(Mainstream) 及「体育与健康」(Sports and Health) 两个范畴。
@@ -40,7 +40,7 @@ LSIP 专注于提升学生的职场适应力和专业技能，从而增强毕业
 5.  **面试安排：** 在申请表中直接预约面试时段。
 6.  **获选后续：** 入围者必须完成 [PTP](#pre-internship-training-programme-ptp)。获录取者需完成自我评估并出席检讨交流会。
 
----
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFaMBzh9RsQOSRLU3Vim-UQLGWIUpeiADaxXQdaqCPbw&s=10)
 
 ## Government Post-Secondary Student Summer Internship Programme (GOVT / 政府暑期实习计划)
 此计划由香港特别行政区政府提供，旨在为香港永久性居民的全日制大学生提供暑期实习机会。

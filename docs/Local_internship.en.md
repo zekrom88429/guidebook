@@ -18,7 +18,7 @@ Designed specifically for students in STEM-related programmes, this scheme provi
 5.  **Requirement:** If shortlisted, you **must** complete the [Pre-Internship Training Programme (PTP)](#pre-internship-training-programme-ptp) and meet any additional OSA requirements.
 6.  **Non-local Students:** Meeting working [requirements](#non-local-students).
 
------
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbeRyxvLzkOT1aUIGUkz1pmqS02GeJhvsAcoiY0zlzBQ&s=10)
 
 ## Local Summer Internship Programme (LSIP)
 The LSIP focuses on developing workplace adaptability and professional skills to improve post-graduation employability. It offers two streams: "Mainstream" and "Sports and Health."
@@ -40,7 +40,7 @@ The LSIP focuses on developing workplace adaptability and professional skills to
 5.  **Interview:** Book your interview slot directly through the application form.
 6.  **Post-Selection:** Shortlisted candidates must complete the [PTP](#pre-internship-training-programme-ptp). Selected students must complete a self-evaluation and attend a debriefing session.
 
----
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFaMBzh9RsQOSRLU3Vim-UQLGWIUpeiADaxXQdaqCPbw&s=10)
 
 ## Government Post-Secondary Student Summer Internship Programme (GOVT)
 Offered by the HKSAR Government, this programme provides summer opportunities for full-time undergraduate students who are permanent residents of Hong Kong.
