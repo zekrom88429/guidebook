@@ -1,4 +1,4 @@
-大學生生存有四大條件，空氣、食物、水和互聯網連接。沒有互聯網連接，大部份學習活動也無法展開。希望這一份指南將帶你掌握嶺南大學校內所有網絡服務的連接方式，讓你在校園內外都能隨時保持連線狀態！
+大學生生存有四大條件，空氣、食物、水和互聯網連接。沒有互聯網連接，大部份學習活動也無法進行。希望這一份指南將帶你掌握嶺南大學校內所有網絡服務的連接方式，讓你在校園內外都能隨時保持連線狀態！
 
 ## 校園 Wi-Fi 網絡指南
 
@@ -16,13 +16,15 @@
 
 ### 裝置連線設定
 
-| 作業系統 | 設定技巧 |
+| 作業系統 | 設定 |
 | :--- | :--- |
 | **Android** | EAP 方式選擇 **PEAP**，CA 憑證設為 **「不驗證」**。 |
 | **iOS** | 連線後輸入帳號密碼，系統跳出憑證時點選 **「接受」** 即可。 |
 | **Windows 和 macOS** | 系統會自動彈出驗證視窗，輸入 myLingnan Portal 帳號密碼即可。 |
 
-> `eduroam` 可在全球各地參與的大專院校使用；`University via CSL` 則主要部署於香港各大學校園，是跨校學習的幫手。
+> `eduroam` 可在全球各地參與的大專院校使用；`University via CSL` 則主要部署於香港各大學校園，是跨校活動的小幫手。
+
+![](https://www.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/what_is_a_router_and_what_does_it_do_signal/Signal-What-is-a-Router-and-What-Does-it-Do-Hero.jpg?width=2400&name=Signal-What-is-a-Router-and-What-Does-it-Do-Hero.jpg)
 
 ## 校園 VPN 連線
 
@@ -39,7 +41,7 @@
 
 若你在宿舍使用電腦，有線網絡提供更穩定的連線品質：
 
-1.  將電腦連接至網絡接口。
+1.  準備LAN線，將電腦連接至網絡接口。
 2.  開啟瀏覽器並嘗試瀏覽網頁，系統將自動導向認證頁面。若未轉跳，請直接訪問 [學校首頁](https://www.ln.edu.hk)。
 3.  以 **myLingnan Portal** 的帳號密碼完成登入。
 
@@ -47,4 +49,4 @@
 *   **禁止私設設備：** 宿舍內嚴禁安裝路由器 (Router)、網絡中繼器 (Repeater) 或網絡儲存伺服器 (NAS)。
 *   **裝置限制：** 有線網絡僅供具備瀏覽器功能的電腦使用。不支援無瀏覽器介面的設備，如網絡印表機、IP 攝影機或電視盒子等。
 
-作者：Daniel
+作者：```Daniel```

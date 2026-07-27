@@ -7,10 +7,10 @@ If you look at the items on my resume individually, each one is quite impressive
 > * **2021 Census Enumerator**: Coordinated resource allocation and administrative logistics for a team of 150 under high-pressure conditions.
 > * **Hospital Authority Administrative Assistant**: Managed financial records and welfare applications for thousands of patients over four months, while implementing process automation using VBA and PowerBI.
 > * **Insurance Sales Associate**: Worked on the front lines, generating over HK$200,000 in personal sales.
-> * **University Student Organization Officer**: Spent 10 months managing external press releases and internal administrative operations.
+> * **University Student Organization Officer**: Spent 10 months managing press releases and internal administrative operations.
 > * **Technical Skills**: Proficient in M language and VBA, with a solid foundation in R and SQL data analysis.
 
-The contradiction lies in the fact that all these experiences were crammed onto a single resume.
+The contradiction lies in the fact that all these experiences were **crammed** onto a single resume.
 
 In every interview, the interviewer would ask, 'What do you want to do after graduation?' No matter how I answered, it always sounded like a lie. If I said I wanted to be a professional financial advisor, they would question my low sales figures and assume I was too distracted by club activities to be fully committed. If I shifted gears and said I wanted to be a business data analyst, they would criticize my lack of technical depth and feel that my experience in public sectors made me ill-equipped for the fast-paced, high-flexibility rhythm of the private sector.
 
@@ -20,4 +20,4 @@ Many companies are looking for interns who are 'razor-sharp blades'—specialist
 
 Take it from me: if you are a freshman, you don’t need to rush to fill every gap on your resume with internships and competitions. Take the time to explore your true calling first, then commit to digging deep into that field. Those blindly stacked resume highlights might, in the eyes of a headhunter, be nothing more than a string of soulless keywords.
 
-By: Daniel
+By:``` Daniel```
