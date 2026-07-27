@@ -11,7 +11,7 @@
 *   **实习津贴：** 每日约 393 港元（具体金额请向学生事务处 OSA 核实）。
 
 ### 申请流程
-1.  **核实资格：** 确认你的课程是否符合[申请资格](Local_internship_eligibility.md)。
+1.  **核实资格：** 确认你的课程是否符合[申请资格](Local_internship_eligibility.zh-Hans.md)。
 2.  **准备工作：** 准备好简历、个人资料、目的声明（Statement of Purpose），并选定心仪的职位。
 3.  **选择职位：** 在[官方网站](https://www.ln.edu.hk/osa/career-planning/internship-placements/local-internships/stem-internship-scheme)浏览职位空缺，并列出首 3 个志愿。
 4.  **递交申请：** 务必在截止日期前提交。
@@ -35,7 +35,7 @@ LSIP 专注于提升学生的职场适应力和专业技能，从而增强毕业
 2.  **写作要求：**
     *   **英文：** 撰写 150 字的短文，说明你的申请动机和目标。
     *   **中文：** 撰写 150 字的短文，说明你的优点和缺点。
-3.  **相关文件：** 准备好你的非正式成绩单（详见此[指引](Local_internship_unofficial_transcript.md)）。
+3.  **相关文件：** 准备好你的非正式成绩单（详见此[指引](Local_internship_unofficial_transcript.zh-Hans.md)）。
 4.  **递交申请：** 透过网上平台提交申请（需使用学校 VPN）。
 5.  **面试安排：** 在申请表中直接预约面试时段。
 6.  **获选后续：** 入围者必须完成 [PTP](#pre-internship-training-programme-ptp)。获录取者需完成自我评估并出席检讨交流会。
@@ -64,7 +64,7 @@ LSIP 专注于提升学生的职场适应力和专业技能，从而增强毕业
 对于所有由 OSA 管理的实习及资助计划，参加 PTP 均为**强制性**要求。内容涵盖识别求职陷阱、专业简历撰写等实用技巧。
 *   **课程结构：** 包含必修/选修单元及 LinkedIn Learning 课程。
 *   **认可积分：** 每个工作坊可获得 1 个 ILP 学分。
-*   **登入方式：** 请透过[网上平台](https://osa.ln.edu.hk/ptp)进行。
+*   **登入方式：** 请透过[网上平台](https://osa.ln.edu.hk/ptp)进行。（需要学校VPN）
 
 ### 非本地学生须知
 非本地学生若要参加本地实习，必须满足以下要求：
@@ -77,7 +77,7 @@ LSIP 专注于提升学生的职场适应力和专业技能，从而增强毕业
 *   **及早申请：** 计划通常採取「先到先得」的滚动式录取，越早申请，机会越大。
 *   **保持专业：** 处理每一份实习申请时，都应保持与应徵正职同等的严谨态度。
 *   **财务支援：** 若你找到一份无薪实习，请向 OSA 查询是否有相关资助。
-*   **核实资讯：** 递交申请前，务必前往[官方实习平台 (OSA Internship Portal)](https://www.ln.edu.hk/osa/career/internships) 核对截止日期、名额及资助金额。
+
 
 ### 官方网页
 *   [Lingnan University Office of Student Affairs (OSA) - Internship Page](https://www.ln.edu.hk/osa/career/internships)

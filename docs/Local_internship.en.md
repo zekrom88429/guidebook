@@ -11,7 +11,7 @@ Designed specifically for students in STEM-related programmes, this scheme provi
 *   **Allowance:** Approximately HKD 393 per day (Verify current rates with OSA).
 
 ### Application Process
-1.  **Verify Eligibility:** Check your programme’s [eligibility](Local_internship_eligibility.md).
+1.  **Verify Eligibility:** Check your programme’s [eligibility](Local_internship_eligibility.en.md).
 2.  **Preparation:** Prepare your resume, personal details, a statement of purpose, and identify preferred roles.
 3.  **Selection:** Browse the job list on the [official website](https://www.ln.edu.hk/osa/career-planning/internship-placements/local-internships/stem-internship-scheme) and select your top 3 preferences.
 4.  **Submission:** Apply before the deadline.
@@ -35,7 +35,7 @@ The LSIP focuses on developing workplace adaptability and professional skills to
 2.  **Writing Requirements:**
     *   **English:** 150-word essay on your motivations and goals.
     *   **Chinese:** 150-word essay on your strengths and weaknesses.
-3.  **Documentation:** Obtain your unofficial transcript (refer to this [guide](Local_internship_unofficial_transcript.md)).
+3.  **Documentation:** Obtain your unofficial transcript (refer to this [guide](Local_internship_unofficial_transcript.en.md)).
 4.  **Submission:** Submit the application via the online portal (University VPN required).
 5.  **Interview:** Book your interview slot directly through the application form.
 6.  **Post-Selection:** Shortlisted candidates must complete the [PTP](#pre-internship-training-programme-ptp). Selected students must complete a self-evaluation and attend a debriefing session.
@@ -62,9 +62,10 @@ Offered by the HKSAR Government, this programme provides summer opportunities fo
 ### Pre-Internship Training Programme (PTP)
 
 The PTP is **mandatory** for all OSA-administered internship and subsidy schemes. It covers vital topics like identifying employment traps and professional CV writing.
+
 *   **Structure:** Includes compulsory/optional modules and LinkedIn Learning courses.
 *   **Recognition:** Each workshop earns 1 ILP unit.
-*   **Access:** Available via the [online platform](https://osa.ln.edu.hk/ptp).
+*   **Access:** Available via the [online platform](https://osa.ln.edu.hk/ptp). (University VPN required)
 
 ### Non-Local Students
 To participate in local internships, non-local students must:
@@ -78,7 +79,6 @@ To participate in local internships, non-local students must:
 *   **Apply Early:** Programmes often utilize rolling admissions; applying as soon as the portal opens increases your chances.
 *   **Professionalism:** Treat every internship application with the same rigor as a permanent job application.
 *   **Financial Support:** If you secure an unpaid internship, contact the OSA to inquire about available subsidies.
-*   **Cross-Reference:** Always verify deadlines, quotas, and subsidy amounts on the official [OSA Internship Portal](https://www.ln.edu.hk/osa/career/internships) before submitting.
 
 ### Official Links
 *   [Lingnan University Office of Student Affairs (OSA) - Internship Page](https://www.ln.edu.hk/osa/career/internships)

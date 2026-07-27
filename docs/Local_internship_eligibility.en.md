@@ -1,21 +1,21 @@
 # Eligibility of Students
 
-Bachelor of Arts (Honours) in Animation and Digital Arts
-Bachelor of Arts (Honours) in Creative Media Industries  
-Bachelor of Business Administration (Honours) – Business Analytics and Innovation  
-Bachelor of Business Administration (Honours) – Digital Business
-Bachelor of Business Administration (Honours) – Marketing and Social Media  
-Bachelor of Business Administration (Honours) in Risk and Insurance Management (Insurance Technology Concentration)
-Bachelor of Liberal Arts (Honours) in Global Development and Sustainability
-Bachelor of Science (Honours) in Data Science
-Bachelor of Social Sciences (Honours) – Social Data Science
-Master of Arts in Artificial Intelligence and the Future  
-Master of Arts in Creative and Media Industries
-Master of Arts in Digital History in Global Asia 
-Master of Cities and Governance
-Master of Research in Advanced Data Science
-Master of Science in Artificial Intelligence and Business Analytics
-Master of Science in Data Science
-Master of Science in Industrial Data Analytics
-Master of Science in Smart City Technologies and Applications
-Master of Science in Sustainability and Environmental Analytics
+- Bachelor of Arts (Honours) in Animation and Digital Arts
+- Bachelor of Arts (Honours) in Creative Media Industries  
+- Bachelor of Business Administration (Honours) – Business Analytics and Innovation  
+- Bachelor of Business Administration (Honours) – Digital Business
+- Bachelor of Business Administration (Honours) – Marketing and Social Media  
+- Bachelor of Business Administration (Honours) in Risk and Insurance Management (Insurance Technology Concentration)
+- Bachelor of Liberal Arts (Honours) in Global Development and Sustainability
+- Bachelor of Science (Honours) in Data Science
+- Bachelor of Social Sciences (Honours) – Social Data Science
+- Master of Arts in Artificial Intelligence and the Future  
+- Master of Arts in Creative and Media Industries
+- Master of Arts in Digital History in Global Asia 
+- Master of Cities and Governance
+- Master of Research in Advanced Data Science
+- Master of Science in Artificial Intelligence and Business Analytics
+- Master of Science in Data Science
+- Master of Science in Industrial Data Analytics
+- Master of Science in Smart City Technologies and Applications
+- Master of Science in Sustainability and Environmental Analytics
