@@ -18,7 +18,7 @@
 > 在频繁旷课、欠交功课，是真的会让你无法及时毕业的，不要掉以轻心！我身边就有人因为经常旷课，最后晚了一个学期毕业。
 
 ### cGPA的计算方式？
-cGPA 是衡量学生学业表现的标准。计算方法是将每门课的**「学分」**与该科获得的**「等级点数（Grade Point）」**相乘，得出「加权点数（Weighted Points）」，最后将**总加权点数除以总学分**。
+cGPA 是衡量学生学业表现的标准。计算方法是将每门课的 **「学分」** 与该科获得的 **「等级点数（Grade Point）」** 相乘，得出 **「加权点数（Weighted Points）」** ，最后将 **总加权点数除以总学分**。
 
 **【计算范例】**
 假设你这学期修了 5 门课，每门 3 学分（共 15 学分）：
@@ -49,6 +49,8 @@ cGPA 是衡量学生学业表现的标准。计算方法是将每门课的**「�
 
 **官方备考资源：** 学校有提供 [IELTS 网上资源](https://www.ln.edu.hk/ceal/f/page/110086/Online%20IELTS%20Resources.pdf) 给考生，你也可以多利用 ELSS（English Language Support Service）提供的 [辅助服务](https://elss.ln.edu.hk/services/) 来提升语文能力。
 
+![](https://www.ielts.ca/wp-content/uploads/2020/09/cd-1.jpg)
+
 ## 服务研习（Service Learning）
 
 在毕业前，你**必须修读一门 Service Learning（SL）科目并取得合格**。这类科目与传统授课的形式不同，更强调在导师监督下，由学生自主策划并执行活动。
@@ -56,7 +58,7 @@ cGPA 是衡量学生学业表现的标准。计算方法是将每门课的**「�
 *   **如何修读：** 像普通科目一样，需要在选科时段（Course Registration）自行拣选。教务处的 [网页](https://www.ln.edu.hk/reg/undergraduate-programmes/course-registration) 会列出当季属于 Service Learning 的科目。
 *   **如何过关：** 根据课程指示完成指定的服务活动，并准时呈交报告。
 
->  由于 Service Learning 的自主性极高、工作量与挑战性相对较大，**建议在课程较轻松时才考虑修读**。
+>  由于 Service Learning 的自主性极高、工作量与挑战性相对较大，**建议在大四时才考虑修读**。
 
 ## ILP 时数
 
@@ -94,7 +96,7 @@ ILP（Integrated Learning Programme）是学校提供的课外全人学习活动
 
 | 途径 | 说明 |
 | :--- | :--- |
-| **1. 网上集中登记<br>(Online Registration)** | 每个学期初，学校会设有一个**集中登记时段**。同学需要像选科一样，登入系统选取心仪的 ILP 活动。<br> **注意：** 名额有限，一律採**「先到先得」**制，记得提早准备！ |
+| **1. 网上集中登记<br>(Online Registration)** | 每个学期初，学校会设有一个**集中登记时段**。同学需要像选科一样，登入系统选取心仪的 ILP 活动。<br> **注意：** 名额有限，一律採 **「先到先得」** 制，记得提早准备！ |
 | **2. 电邮不定期邀请<br>(Email Notifications)** | 校内各个部门与机构会**不定期透过电邮**发送最新的活动邀请，平时请多留意学校 Email！ |
 | **3. 参加校队<br>(Sports & Cultural Teams)** | 只要成功成为校队成员，并维持 **80% 或以上的出席率**，即可直接获得大量 ILP 分数：<br><ul><li>**体育校队：** 直接採计 **12 分 PFW** (体适能与健康)</li><li>**文化类队伍：** 直接採计 **12 分 AD** (美育)</li></ul> |
 
@@ -109,4 +111,4 @@ ILP（Integrated Learning Programme）是学校提供的课外全人学习活动
 
 祝大家的四年大学生活精彩充实，顺利准时毕业，不要步上我的后尘！
 
-**作者：延毕的 Daniel**
+作者：```延毕的 Daniel```

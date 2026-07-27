@@ -25,6 +25,8 @@ Lingnan University provides five Wi-Fi options to meet your networking needs bot
 
 > **Pro Tip:** `eduroam` is available at participating universities worldwide; `University via CSL` is primarily deployed across Hong Kong university campuses, making it perfect for cross-institutional study.
 
+![](https://www.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/what_is_a_router_and_what_does_it_do_signal/Signal-What-is-a-Router-and-What-Does-it-Do-Hero.jpg?width=2400&name=Signal-What-is-a-Router-and-What-Does-it-Do-Hero.jpg)
+
 ## Campus VPN
 
 Certain key administrative resources (such as accessing Course Outlines, the Counselling Services Booking System, and applying for courses that are already full) are restricted to the campus internal network. When you are off campus, follow these steps to use the VPN:
@@ -40,7 +42,7 @@ Certain key administrative resources (such as accessing Course Outlines, the Cou
 
 If you are using a computer in the student hostel, the wired network provides a more stable connection:
 
-1.  Plug your computer into the wall-mounted network port.
+1.  Prepare a LAN cable, and plug your computer into the wall-mounted network port.
 2.  Open a web browser and try to visit any website; the system will automatically redirect you to the login page. If it does not redirect, try visiting the [university homepage](https://www.ln.edu.hk).
 3.  Log in using your **myLingnan Portal** credentials.
 
@@ -48,4 +50,4 @@ If you are using a computer in the student hostel, the wired network provides a 
 *   **No Private Networking Equipment:** Installing your own routers, range extenders/repeaters, or network-attached storage (NAS) devices in the dormitories is strictly prohibited.
 *   **Device Restrictions:** The wired network is intended for computers with a web browser. Devices without a browser interface—such as network printers, IP cameras, or TV boxes—are not supported.
 
-By: Daniel
+By: ```Daniel```

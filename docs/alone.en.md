@@ -5,9 +5,11 @@ Unlike the static, often insular environment of high school, university life is 
 To expand your social circle, the key is active participation:
 
 * Orientation Events: These are the prime opportunities to make a strong first impression.
-* Departmental and Interest Societies: These are gold mines for finding like-minded peers.
+* Student Societies: These are gold mines for finding like-minded peers. (You can find a list of student societies and their contact information in [contacts list](contact.md).)
 * Joining Executive Committees (Cabinets): If you crave the experience of working shoulder-to-shoulder with others to achieve something greater, this is the most immersive path.
 * Hostel Life: This is one of the few settings where you can build stable, long-term relationships. Be sure to foster a good rapport with your neighbors.
+
+![](https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/asian_students.jpg?itok=_RpUc_1B)
 
 As you enter university, you may notice that social interactions sometimes carry an element of "transactional value." Active students often find themselves in high demand for group projects; upperclassmen are frequently sought after for academic advice; and when it comes to competitions or startups, people naturally turn to their networks to find partners. This does not mean university social life is inherently mercenary; it is simply the nature of the environment. Yet, rest assured that genuine, platonic friendship will never be absent in university. As long as you offer companionship, care, and sincerity, those warm connections will never be forgotten.
 
@@ -17,4 +19,4 @@ There is a unique breadth and diversity here that allows you to find your true t
 
 I hope that in this "compulsory course" of social life, you not only learn how to build meaningful connections but also find the answers you are looking for.
 
-By: Daniel
+By: ```Daniel```

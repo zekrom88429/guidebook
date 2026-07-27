@@ -51,6 +51,8 @@ All students must fulfill the language requirement by either passing the **Passw
 
 *   **Official Preparation Resources:** The university provides [Online IELTS Resources](https://www.ln.edu.hk/ceal/f/page/110086/Online%20IELTS%20Resources.pdf) for candidates. You can also make full use of the [support services](https://elss.ln.edu.hk/services/) offered by the ELSS (English Language Support Service) to boost your English proficiency.
 
+![](https://www.ielts.ca/wp-content/uploads/2020/09/cd-1.jpg)
+
 ## Service Learning (SL)
 
 Before graduating, you **must enroll in and pass at least one Service Learning (SL) course**. Unlike traditional lecture-based classes, these courses emphasize hands-on experience, where students independently plan and execute community service projects under the guidance of a supervisor.
@@ -58,7 +60,7 @@ Before graduating, you **must enroll in and pass at least one Service Learning (
 *   **How to Enroll:** You register for it just like a regular course during the Course Registration period. The Registry's [website](https://www.ln.edu.hk/reg/undergraduate-programmes/course-registration) provides a list of approved Service Learning courses available each term.
 *   **How to Pass:** Complete the designated service activities according to the course guidelines and submit your reports on time.
 
-> Because Service Learning requires high autonomy and involves a relatively heavy workload and challenge, **it is highly recommended to take it during a semester when your academic workload is lighter**.
+> Because Service Learning requires high autonomy and involves a relatively heavy workload and challenge, **it is highly recommended to take it during Year 4**.
 
 ## ILP Hours: Enriching Your Co-curricular Life
 
@@ -111,4 +113,4 @@ Before graduation, you must pass the online ITFP test provided by the university
 
 Wishing you all a wonderful, fulfilling, and exciting four years at university. Graduate on time, and don't follow in my footsteps!
 
-**Author: Daniel, the Super-Senior**
+Author: ```Daniel, the Super-Senior```

@@ -19,7 +19,7 @@ Note that some courses (such as *Introduction to Creative Writing, LUE3001*) hav
 ## Scope of Use
 Not all courses allow AI assistance. Please pay close attention:
 *   **Prohibited Use:** If a lecturer explicitly prohibits the use of AI for a specific assignment or in-class assessment, you must strictly comply.
-*   **Default Rules:** If the instructor has not made a specific declaration, you may generally assume that AI use is permitted.
+*   **Default Rules:** If the instructor has not made a specific declaration, you may generally assume that AI use is **permitted**.
 
 ## Free AI Services
 You do not need to pay extra for AI tools. ITSC provides a free generative AI service for all students.
@@ -31,6 +31,8 @@ You do not need to pay extra for AI tools. ITSC provides a free generative AI se
     *   The service must be accessed within the school network.
     *   If you are off-campus, please connect via VPN (instructions can be found in the previous [guide](WiFIandVPN.md/#campus-vpn)).
 
+![](https://i.redd.it/w1wycj6aa9me1.jpeg)
+
 ## The Limitations of AI: It Cannot Replace Your Unique Insights
 
 One of the biggest flaw of AI in academic life is its lack of genuine human experience and deep insight. When I once asked Gemini to suggest topics for my next article in this Guidebook, its responses were quite generic:
@@ -39,8 +41,8 @@ One of the biggest flaw of AI in academic life is its lack of genuine human expe
 > * **Campus Life Hacks:** Sharing practical tips to improve efficiency in daily university life.
 > * **Scholarship and Financial Planning:** Organizing information on government assistance schemes (Grant/Loan) and institutional scholarships.
 
-While these suggestions are correct, they lack a "human soul." Gemini has never spent a single day taking classes at Lingnan University; it cannot understand how AI policies truly affect a student's studies and mindset. Precisely because it lacks this empathetic perspective, it could never produce content with this level of practical warning and professional experience.
+While these suggestions are correct, they lack a "human soul." Gemini has never spent a single day taking classes at Lingnan University; it cannot understand how AI policies truly affect a student's studies and mindset. Precisely because it lacks this empathetic perspective, it could never produce content with this level of practical warning experience.
 
 This is why you must cherish your own perspective—your critical thinking, your observations, and the personal insights you have forged from your real-life campus experience are values that AI can neither imitate nor replace.
 
-By: Daniel
+By: ```Daniel```
