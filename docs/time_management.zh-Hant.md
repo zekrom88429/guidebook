@@ -18,6 +18,8 @@
 
 不過注意，不要在行事曆塞滿工作時間。你**需要休息和應對意外情況**。
 
+![](https://www.library.ln.edu.hk/sites/default/files/images/space_facilities/place/overnight/1b-late-highlight.png)
+
 ### 動態修正
 時間管理都是一場動態的協作，**計劃要趕得上變化**。
 每週挑個晚上花幾十分鐘回顧過去一週的進度，並調整下一週的行事曆。如果發現某個目標的重要性下降，或者時間設定過於理想化，請放心去修正。重新評估自已的工作效率，設定的目標要量力而為。

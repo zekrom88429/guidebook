@@ -20,6 +20,8 @@ Remember to set a 'no-distraction time' for yourself. Put your phone on 'Do Not 
 
 However, be careful not to pack your calendar entirely with work. You need to leave room for **rest and unexpected situations**.
 
+![](https://www.library.ln.edu.hk/sites/default/files/images/space_facilities/place/overnight/1b-late-highlight.png)
+
 ### Dynamic Adjustment
 
 Time management is a dynamic collaboration; **plans must adapt to change**.

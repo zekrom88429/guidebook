@@ -18,6 +18,8 @@
 
 不过注意，不要在行事曆塞满工作时间。你**需要休息和应对意外情况**。
 
+![](https://www.library.ln.edu.hk/sites/default/files/images/space_facilities/place/overnight/1b-late-highlight.png)
+
 ### 动态修正
 时间管理都是一场动态的协作，**计划要赶得上变化**。
 每週挑个晚上花几十分钟回顾过去一週的进度，并调整下一週的行事曆。如果发现某个目标的重要性下降，或者时间设定过于理想化，请放心去修正。重新评估自已的工作效率，设定的目标要量力而为。
