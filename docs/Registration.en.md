@@ -1,4 +1,4 @@
-Course Registration is the key process that determines your schedule for the upcoming semester. With careful planning, it is entirely possible to achieve your ideal schedule, such as having no classes for a full day or avoiding 9:00 AM classes. Please follow these four steps to complete your preparations:
+Course Registration is the key process that determines your schedule for the upcoming semester. With careful planning, it is  possible to achieve your ideal schedule, such as having no classes for a full day or avoiding 9:00 AM classes. Please follow these four steps to complete your preparations:
 
 ### First Step: Study Plan
 
@@ -10,7 +10,7 @@ Please log in to the **Degree Works** system to set up your annual study plan. F
     *   **Major Courses:** Major courses are typically more challenging; it is advised to progress gradually and avoid rushing into them at the start of your studies.
     *   **Free Electives:** Free electives should be chosen based on personal interest or career planning. You may also use these to fulfill requirements for a Minor.
 *   **Prerequisites:** Some advanced courses have "Prerequisites." Specific requirements are listed on the **Student Portfolio** page. The system will reject saving your plan if it conflicts with these prerequisites or the term in which the course is offered (if only available in a single semester).
-*   **Course Load Limit:** While the system allows you to register for up to six courses per semester, please consider the academic pressure. Unless you need to retake failed courses, pursue a Minor, or intend to graduate early, it is **advised not to challenge the six-course limit** to avoid a heavy workload that could affect your learning quality.
+*   **Course Load Limit:** While the system allows you to register for up to six courses per semester, please consider the academic pressure. Unless you need to retake failed courses or pursue a Minor, it is **advised not to challenge the six-course limit** to avoid a heavy workload that could affect your learning quality.
 
 ### Second step: Academic Advising
 
@@ -19,6 +19,8 @@ Once you have drafted your plan, it must be approved by your **Academic Adviser*
 1.  **Locate your Adviser:** You can find the name of your assigned Academic Adviser on the "Plan" page in Degree Works.
 2.  **Request Approval:** Please send an email to your Adviser to request approval for your annual study plan. Once you have received their consent, you may proceed to the next stage of registration.
     *   *Tip: Log in to your Outlook school email; when you type your Adviser's name in the "To" field, the system will automatically pop up their email address.*
+
+![](https://www.ln.edu.hk/reg/f/page/40852/342p191/iStock-823830570_1575001809.jpg)
 
 ### Third step：Registration Period
 
@@ -39,4 +41,4 @@ After the semester officially begins, there will be an "Add-drop Period" lasting
 *   **Operational Strategy:** Since most vacancies for popular courses will have been filled, the success rate for switching is relatively low; therefore, **it is not recommended** to make major changes to your course selection during this period.
 *   **Exceptions:** If you find that the teaching content or style does not meet your expectations, or if you find the course content overwhelming after classes begin, you may use this period for necessary adjustments.
 
-Author: Daniel
+Author: ```Daniel```

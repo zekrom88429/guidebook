@@ -1,13 +1,36 @@
-site_name: Guidebook for Lingnan Students
+site_name: A Student’s Guide
 site_url: https://zekrom88429.github.io/guidebook/
 
 theme:
   name: material
-  language: zh  # 這裡一定要維持 zh
+  language: zh
   custom_dir: overrides
+  font:
+    text: "Noto Sans"
+    code: "Roboto Mono"
+  palette:
+    - scheme: default
+      primary: purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+        accent: indigo
   features:
+    - navigation.instant
     - navigation.tabs
+    - navigation.tracking
+    - navigation.prune
     - header.links.language
+    - content.action.edit
+    - content.code.copy
+  logo: img/logo/logo.svg
+  favicon: img/logo/logo.svg
 
 extra:
   alternate:
@@ -20,9 +43,22 @@ extra:
     - name: English
       link: /guidebook/en/
       lang: en
+  comments:
+    provider: giscus
+    repository: zekrom88429/guidebook
+    repository-id: R_kgDOTbk8eA
+    category: General
+    category-id: DIC_kwDOTbk8eM4DBaXd
+    mapping: url
+    reactions-enabled: 1
+    theme: preferred_color_scheme
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
+  - meta-descriptions
   - i18n:
       languages:
         - locale: zh-Hant
@@ -41,15 +77,27 @@ use_directory_urls: true
 nav:
   - 首頁 Home: index.md
   - 新生須知 Guide for Freshman:
-    - 該不該住校？ Should you apply for studnet hostel?: hostel_choice.md
     - 簡單的選科指南 Simple Guide to Course Registration: Registration.md
+    - 該不該住校？ Should you apply for studnet hostel?: hostel_choice.md
+    - 大學生生存的基本需要--Wi-Fi Wi-Fi, the Basic needs for University Students: WiFIandVPN.md
+    - 社交，不在成績表上的必修科 Socializing, the Unofficial Course: alone.md
+    - 不要像我一延畢 Don't get dalyed in graduation like me: graduation-requirements.md
+    - 小心地使用生成式 AI  Use Generative AI Responsible: aipolicy.md
+    - 挑燈夜戰者的悲歌 A Tip for Pulling All-Nighters : time_management.md
+    - 不要成為一把瑞士軍刀 Don't Be a Swiss Army Knife: resume_building.md
   - 學習建議 Academic Advice:
-    - 如何成為嶺南大學頭 1% 的學生 How to Beomce a Top 1% student: top1pect.md
+    - LingUBible 你的嶺南選課好幫手 Your Course Companion at Lingnan: LingUBible.md
+    - 本地實習計劃 Local Internship Opportunities Guide : Local_internship.md
+    - 如何成為嶺南大學頭 1% 的學生 How to Become a Top 1% student: top1pect.md
     - 如何更有效地學習 How to study more effectively: study_advice.md
-  - 健康 Well-being:
+
+  - 生活和健康 Life and Health:
     - 在嶺南健身 Workout in Lingnan: workout.md
     - 嶺南大學的牙科服務 Dental Clinic in Lingnan University: Dental_Clinic.md
     - 屯門區的餐廳 Places to eat at Tuen Mun District: restaurant.md
+  - 學生社團 Student Societies:
+    - 通訊錄 Contact of Student Societies: contact.md
   - 文集 Art Work:
     - 沒有人會記得第二名 Everyone only remembers the winner: Honor.md
-    - 如何優雅地在度過四年大學生活 How to Live Gracefully Through Four Years of University: good_life.md
+    - 大學裡絕對精緻的利己主義者 The Absolutely Refined Egoist in University: Egoism.md
+    - 羅幼羚的傳奇 The Legend of Luo Youling: legacy.md

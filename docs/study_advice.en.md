@@ -15,4 +15,4 @@ For more details, please check out his [channel](https://www.youtube.com/@Justin
 
 Hope you master your concepts in your discipline.
 
-By: Wilson
+Author: ```Wilson```
