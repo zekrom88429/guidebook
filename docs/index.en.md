@@ -13,6 +13,6 @@ Here, you can find everything you need to know about campus life:
 The vitality of this guide stems from the contributions of every Lingnan student. We look forward to hearing your voice to ensure our content reflects the true needs of our community.
 
 *   **Submissions & Feedback**: If you have unique insights or a campus story to share, please feel free to submit via [Microsoft Forms](https://forms.cloud.microsoft/r/TJxutisnVs).
-*   **Reader Community**: Want to exchange ideas or discuss trending topics with fellow students? Join our [Reader Discussion Group](https://discord.gg/5JJjX83k) (Click the link to join).
+*   **Reader Community**: Want to exchange ideas or discuss trending topics with fellow students? Join our [Reader Discussion Group](https://chat.whatsapp.com/Kl0NomdNOTICpYbbkRbN1B?s=cl&p=i&ilr=2) (Click the link to join).
 
 We hope this guide provides a helping hand throughout your university journey. Wishing you a fulfilling and memorable four years at Lingnan!
