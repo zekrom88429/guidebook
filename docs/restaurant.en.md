@@ -73,11 +73,15 @@ For more details of buses route please go to
 - HKemobility
 - [KMB website](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=1)
 
+Money Saving tip: At LYH there is a KMB University Fare Saver Station 
 
+### ACME Shopping Arcade (GoGO Mall) and  Paris London New York Cinema Shopping center
 
+1. Yi Xiao Long (Tuen Mun)
+(壹小籠) address: Shop G39, G/F, Eldo Court Shopping Centre, 112-140 Tuen Mun Heung Sze Wui Road, Tuen Mun
+2. 
+3
 
-It has many Japanese restaurants and non-big-brand restaurants in its
-2. ACME Shopping Arcade food court (K51 and K51A or MTR Tuen Mun station)
 3. Tuen Mun Town Plaza food court (K51/ K51A or MTR Tuen Mun station or Light Rail 614 Pui To station (better) or Town Center station)
 4. Hands Plaza (Light rail On Ting Station, A33X (expensive)
 5. Places Around Man Bo Building
