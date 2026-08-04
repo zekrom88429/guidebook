@@ -159,11 +159,7 @@ The commercial podium and car park of T-Plus, a residential development at Rainb
 - **MTR buses:** K51/K51A (Lingnan University Station / Fu Tai Station near SEK)
 - **KMB buses:** 53 /261 /67M / 67X/ 67A(Fu Tai Station near SEK)
 - **Mini Bus:** 46/ 46X
-For more details of buses route please go to 
-- HKemobility
-- [KMB website](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=1)
 
-Money Saving tip: At LYH there is a KMB University Fare Saver Station 
 
 ### ACME Shopping Arcade (GoGO Mall) and  Paris London New York Cinema Shopping center
 
@@ -196,21 +192,62 @@ The Chicken Cutlet Rice with Silky Egg (D3) is quite delicious for the Chicken C
 
 4. 芝士烘 Crazy Cheesecake Address: S72, 1st Floor, Go Go Mall, 112–140 Tuen Mun Heung Sze Wui Road, Tuen Mun.
 
-5. 小川滬拉麵小籠包: 
+5. 小川滬拉麵小籠 Address: Shop S76, 1/F, Go Go Mall, 112-140 Tuen Mun Heung Sze Wui Road, Tuen Mun
 
 Horrible mentions:
 
-1. 上海美美豆漿
+1. 上海美美豆漿  Address: Shop 4, G/F, Hong Lai Garden, 129 Tuen Mun Heung Sze Wui Road, Tuen Mun
+
+Author's comment:
+    Taste: Poor
+    price: 5/10
+    Healthy: 3/10
+    Variety : 5/10
+    Speed: 8/10
+
 Although many people said this restaurant is very great to eat but it is really awful
     1. The environment is unclean
     2. The seats are not comfortable
     3. Meat are fried and not fresh
     4. The meat after fried does not taste good
 
-3. Tuen Mun Town Plaza food court (K51/ K51A or MTR Tuen Mun station or Light Rail 614 Pui To station (better) or Town Center station)
+#### Travel Choices 
+- **MTR BUS:** K51/ K51A
+- **KMB BUS:** 53/ 67M/ 67X/ 261/ 46/ 46X
+- **LWB BUS:** A33X (very expensive as it is bus to airport)
+
+### Tuen Mun Town Center
+
+The Tuen Mun Town Center consist of multiple shopping malls. For newcomers, you will be get lost 
+
+- **Tuen Mun Town Plaza(屯門市廣場) / tmtplaza**
+![Image of TmT Plaza](https://www.freeguider.com/upload/venues/543/big/d714fce222a3a45867c4624b16a74cfe.JPG)
+
+-  **Tuen Mun Trend Plaza(屯門時代廣場)**
+![Image of Tuen Mun Trend Plaza](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrgw-LEisrSR7BMR1GGUBekBk1kqUvW6ZPxxaHRFf5A&s=10)
+
+- **K-Point**
+
+- **WALDORF SHOPPING CENTRE (華都商場)**
+
+![Image of WALDORF SHOPPING CENTRE (華都商場)](https://rockystudio2019.wordpress.com/wp-content/uploads/2020/06/dsc01887.jpg)
+
+- **新都**
+
+- **V City**
+
 4. Hands Plaza (Light rail On Ting Station, A33X (expensive)
 5. Places Around Man Bo Building
 
 There are more choice!
+
+
+
+## More details in 
+For more details of buses route please go to 
+- HKemobility
+- [KMB website](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=1)
+Money Saving tip: At LYH there is a KMB University Fare Saver Station 
+
 
 By: Wilson
