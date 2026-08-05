@@ -219,6 +219,7 @@ Although many people said this restaurant is very great to eat but it is really 
 ### Tuen Mun Town Center
 
 The Tuen Mun Town Center consist of multiple shopping malls. For newcomers, you will be get lost 
+so here is a
 
 - **Tuen Mun Town Plaza(屯門市廣場) / tmtplaza**
 ![Image of TmT Plaza](https://www.freeguider.com/upload/venues/543/big/d714fce222a3a45867c4624b16a74cfe.JPG)
@@ -226,15 +227,18 @@ The Tuen Mun Town Center consist of multiple shopping malls. For newcomers, you 
 -  **Tuen Mun Trend Plaza(屯門時代廣場)**
 ![Image of Tuen Mun Trend Plaza](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrgw-LEisrSR7BMR1GGUBekBk1kqUvW6ZPxxaHRFf5A&s=10)
 
-- **K-Point**
+- **K-Point (錦薈坊)**
+![Image of K-Point](https://www.k-point.com.hk/wp-content/uploads/2025/01/r3-BAM_0396-scaled.jpg)
 
 - **WALDORF SHOPPING CENTRE (華都商場)**
 
 ![Image of WALDORF SHOPPING CENTRE (華都商場)](https://rockystudio2019.wordpress.com/wp-content/uploads/2020/06/dsc01887.jpg)
 
-- **新都**
+- **New Town Commericial Arcade 新都**
+![Image of 新都](https://cdn.hk01.com/di/media/images/dw/20250606/1007681406425370624245391.jpeg/IoQjykhkXWr2jV5MUAgdFTTVOxS-j9HJnDV7kJw1e5A)
 
 - **V City**
+![Image of V City](https://res.klook.com/image/upload/w_750,h_469,c_fill,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/cwrr6fakicdiixnfsf2h.jpg)
 
 4. Hands Plaza (Light rail On Ting Station, A33X (expensive)
 5. Places Around Man Bo Building
