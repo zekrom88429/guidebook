@@ -221,7 +221,7 @@ Although many people said this restaurant is very great to eat but it is really 
 The Tuen Mun Town Center consist of multiple shopping malls. For newcomers, you will be get lost 
 so here is a map
 
-![屯門市中心美食地圖示意圖](img/Restaurant/Showcase of map.png)
+![屯門市中心美食地圖示意圖](img/Restaurant/tuen-mun-food-map.png)
 
 
 - **Tuen Mun Town Plaza(屯門市廣場) / tmtplaza**
