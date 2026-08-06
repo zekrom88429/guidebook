@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_5eb69e0e5d441622f1b56dca87ff4ad8 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="
+    position: fixed; 
+    bottom: 25px; 
+    left: 25px; 
+    width: 320px;
+    background-color: rgba(255, 255, 255, 0.95);
+    z-index: 9999; 
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.25);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    overflow: hidden;
+">
+    <div onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none'; this.querySelector('span').textContent = this.nextElementSibling.style.display === 'none' ? '▶' : '▼';"
+         style="font-weight: bold; font-size: 13px; padding: 10px 15px; color: #111; border-bottom: 1px solid #eee; cursor: pointer; user-select: none;">
+        <span style="margin-right: 6px;">▼</span>地圖圖例 (Tuen Mun Malls & Stations)
+    </div>
+    <div style="padding: 10px 15px; max-height: 140px; overflow-y: auto;">
+        
+    <div style="display: flex; align-items: center; margin-bottom: 4px;">
+        <span style="
+            background-color: #E63946;
+            color: white;
+            border-radius: 50%;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            margin-right: 8px;
+            flex-shrink: 0;
+        ">1</span>
+        <span style="font-size: 12px; color: #333;">V City</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; margin-bottom: 4px;">
+        <span style="
+            background-color: #2A9D8F;
+            color: white;
+            border-radius: 50%;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            margin-right: 8px;
+            flex-shrink: 0;
+        ">2</span>
+        <span style="font-size: 12px; color: #333;">屯門時代廣場北翼 Tuen Mun Trend Plaza North Wing</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; margin-bottom: 4px;">
+        <span style="
+            background-color: #F4A261;
+            color: white;
+            border-radius: 50%;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            margin-right: 8px;
+            flex-shrink: 0;
+        ">3</span>
+        <span style="font-size: 12px; color: #333;">屯門時代廣場南翼 Tuen Mun Trend Plaza South Wing</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; margin-bottom: 4px;">
+        <span style="
+            background-color: #9C27B0;
+            color: white;
+            border-radius: 50%;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            margin-right: 8px;
+            flex-shrink: 0;
+        ">4</span>
+        <span style="font-size: 12px; color: #333;">錦薈坊 K point</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; margin-bottom: 4px;">
+        <span style="
+            background-color: #E91E63;
+            color: white;
+            border-radius: 50%;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            margin-right: 8px;
+            flex-shrink: 0;
+        ">5</span>
+        <span style="font-size: 12px; color: #333;">屯門市廣場 二期 TmT Plaza phase 2</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; margin-bottom: 4px;">
+        <span style="
+            background-color: #D32F2F;
+            color: white;
+            border-radius: 50%;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            margin-right: 8px;
+            flex-shrink: 0;
+        ">6</span>
+        <span style="font-size: 12px; color: #333;">屯門市廣場 一期 TmT Plaza phase 1</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; margin-bottom: 4px;">
+        <span style="
+            background-color: #F9C74F;
+            color: white;
+            border-radius: 50%;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            margin-right: 8px;
+            flex-shrink: 0;
+        ">7</span>
+        <span style="font-size: 12px; color: #333;">華都商場/華都大道 WALDORF SHOPPING CENTRE/ Waldorf Avenue</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; margin-bottom: 4px;">
+        <span style="
+            background-color: #277DA1;
+            color: white;
+            border-radius: 50%;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            margin-right: 8px;
+            flex-shrink: 0;
+        ">8</span>
+        <span style="font-size: 12px; color: #333;">新都 New Town Commercial Arcade</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; margin-bottom: 4px;">
+        <span style="
+            background-color: #1D3557;
+            color: white;
+            border-radius: 50%;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            margin-right: 8px;
+            flex-shrink: 0;
+        ">9</span>
+        <span style="font-size: 12px; color: #333;">Tuen Mun Station (MTR)</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; margin-bottom: 4px;">
+        <span style="
+            background-color: #457B9D;
+            color: white;
+            border-radius: 50%;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            margin-right: 8px;
+            flex-shrink: 0;
+        ">10</span>
+        <span style="font-size: 12px; color: #333;">Tuen Mun Station (Light Rail)</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; margin-bottom: 4px;">
+        <span style="
+            background-color: #A8DADC;
+            color: white;
+            border-radius: 50%;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            margin-right: 8px;
+            flex-shrink: 0;
+        ">11</span>
+        <span style="font-size: 12px; color: #333;">Ho Tin Station (Light Rail)</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; margin-bottom: 4px;">
+        <span style="
+            background-color: #6A4C93;
+            color: white;
+            border-radius: 50%;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            margin-right: 8px;
+            flex-shrink: 0;
+        ">12</span>
+        <span style="font-size: 12px; color: #333;">Pui To Station (Light Rail)</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; margin-bottom: 4px;">
+        <span style="
+            background-color: #1982C4;
+            color: white;
+            border-radius: 50%;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            margin-right: 8px;
+            flex-shrink: 0;
+        ">13</span>
+        <span style="font-size: 12px; color: #333;">Town Centre Station (Light Rail)</span>
+    </div>
+    
+    </div>
+</div>
+    
+            <div class="folium-map" id="map_5eb69e0e5d441622f1b56dca87ff4ad8" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_5eb69e0e5d441622f1b56dca87ff4ad8 = L.map(
+                "map_5eb69e0e5d441622f1b56dca87ff4ad8",
+                {
+                    center: [22.3925, 113.9762],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 17,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_d8e05c73bb02dcf0119f6e18095bdff3 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_d8e05c73bb02dcf0119f6e18095bdff3.addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var marker_de1b190694e25a32d7104e05cff80eaf = L.marker(
+                [22.3953572, 113.97403],
+                {
+}
+            ).addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var div_icon_7a1d9bad03886da456a040e02f481276 = L.divIcon({
+  "html": "\n    \u003cdiv style=\"\n        background-color: #E63946;\n        color: white;\n        border-radius: 50%;\n        width: 28px;\n        height: 28px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 14px;\n        border: 2px solid white;\n        box-shadow: 0px 2px 6px rgba(0,0,0,0.4);\n    \"\u003e1\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+        var popup_e0ab1d57f087569fa75d9d0674489b2a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_7e2ed518185f6d41b9096b5966ccd9ac = $(`<div id="html_7e2ed518185f6d41b9096b5966ccd9ac" style="width: 100.0%; height: 100.0%;"><b>1. V City</b></div>`)[0];
+                popup_e0ab1d57f087569fa75d9d0674489b2a.setContent(html_7e2ed518185f6d41b9096b5966ccd9ac);
+            
+        
+
+        marker_de1b190694e25a32d7104e05cff80eaf.bindPopup(popup_e0ab1d57f087569fa75d9d0674489b2a)
+        ;
+
+        
+    
+    
+                marker_de1b190694e25a32d7104e05cff80eaf.setIcon(div_icon_7a1d9bad03886da456a040e02f481276);
+            
+    
+            var marker_8573d6648c1a11c0525c70fca4c368e2 = L.marker(
+                [22.39315, 113.97574],
+                {
+}
+            ).addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var div_icon_f719c4660289077265930693d38abab6 = L.divIcon({
+  "html": "\n    \u003cdiv style=\"\n        background-color: #2A9D8F;\n        color: white;\n        border-radius: 50%;\n        width: 28px;\n        height: 28px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 14px;\n        border: 2px solid white;\n        box-shadow: 0px 2px 6px rgba(0,0,0,0.4);\n    \"\u003e2\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+        var popup_790a5deeca49f7004a3b6dbe5d0324fc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_5d7d1f3024c50b248b43288e5782e0c9 = $(`<div id="html_5d7d1f3024c50b248b43288e5782e0c9" style="width: 100.0%; height: 100.0%;"><b>2. 屯門時代廣場北翼 Tuen Mun Trend Plaza North Wing</b></div>`)[0];
+                popup_790a5deeca49f7004a3b6dbe5d0324fc.setContent(html_5d7d1f3024c50b248b43288e5782e0c9);
+            
+        
+
+        marker_8573d6648c1a11c0525c70fca4c368e2.bindPopup(popup_790a5deeca49f7004a3b6dbe5d0324fc)
+        ;
+
+        
+    
+    
+                marker_8573d6648c1a11c0525c70fca4c368e2.setIcon(div_icon_f719c4660289077265930693d38abab6);
+            
+    
+            var marker_2f00fcf2b12e4d91ab2f0ac34704baea = L.marker(
+                [22.3922, 113.9757],
+                {
+}
+            ).addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var div_icon_28562e5cabe0a6c5ef6bb9e9843cbdae = L.divIcon({
+  "html": "\n    \u003cdiv style=\"\n        background-color: #F4A261;\n        color: white;\n        border-radius: 50%;\n        width: 28px;\n        height: 28px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 14px;\n        border: 2px solid white;\n        box-shadow: 0px 2px 6px rgba(0,0,0,0.4);\n    \"\u003e3\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+        var popup_d85f12e4e0950430b515f3f671980ab1 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_76342172035068406cf1c77de2870820 = $(`<div id="html_76342172035068406cf1c77de2870820" style="width: 100.0%; height: 100.0%;"><b>3. 屯門時代廣場南翼 Tuen Mun Trend Plaza South Wing</b></div>`)[0];
+                popup_d85f12e4e0950430b515f3f671980ab1.setContent(html_76342172035068406cf1c77de2870820);
+            
+        
+
+        marker_2f00fcf2b12e4d91ab2f0ac34704baea.bindPopup(popup_d85f12e4e0950430b515f3f671980ab1)
+        ;
+
+        
+    
+    
+                marker_2f00fcf2b12e4d91ab2f0ac34704baea.setIcon(div_icon_28562e5cabe0a6c5ef6bb9e9843cbdae);
+            
+    
+            var marker_5907faebbfa282725b5c0b9a33442c34 = L.marker(
+                [22.39384, 113.9755],
+                {
+}
+            ).addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var div_icon_e38b92f440734c4560026b5fe53c2db3 = L.divIcon({
+  "html": "\n    \u003cdiv style=\"\n        background-color: #9C27B0;\n        color: white;\n        border-radius: 50%;\n        width: 28px;\n        height: 28px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 14px;\n        border: 2px solid white;\n        box-shadow: 0px 2px 6px rgba(0,0,0,0.4);\n    \"\u003e4\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+        var popup_90986ecb8989c96f68a0caf546fb28e9 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_056ca3a10ef773635e015e1540fdfc61 = $(`<div id="html_056ca3a10ef773635e015e1540fdfc61" style="width: 100.0%; height: 100.0%;"><b>4. 錦薈坊 K point</b></div>`)[0];
+                popup_90986ecb8989c96f68a0caf546fb28e9.setContent(html_056ca3a10ef773635e015e1540fdfc61);
+            
+        
+
+        marker_5907faebbfa282725b5c0b9a33442c34.bindPopup(popup_90986ecb8989c96f68a0caf546fb28e9)
+        ;
+
+        
+    
+    
+                marker_5907faebbfa282725b5c0b9a33442c34.setIcon(div_icon_e38b92f440734c4560026b5fe53c2db3);
+            
+    
+            var marker_e1cf8ea1f8047364cff62db205c04c85 = L.marker(
+                [22.39407, 113.97626],
+                {
+}
+            ).addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var div_icon_6678f8692fa8bdc25e189fe7fa161350 = L.divIcon({
+  "html": "\n    \u003cdiv style=\"\n        background-color: #E91E63;\n        color: white;\n        border-radius: 50%;\n        width: 28px;\n        height: 28px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 14px;\n        border: 2px solid white;\n        box-shadow: 0px 2px 6px rgba(0,0,0,0.4);\n    \"\u003e5\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+        var popup_9b2fb29616214a2588c45bd8e8d09229 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_3ffe4490af56ecb66e6fffdbd88d2d52 = $(`<div id="html_3ffe4490af56ecb66e6fffdbd88d2d52" style="width: 100.0%; height: 100.0%;"><b>5. 屯門市廣場 二期 TmT Plaza phase 2</b></div>`)[0];
+                popup_9b2fb29616214a2588c45bd8e8d09229.setContent(html_3ffe4490af56ecb66e6fffdbd88d2d52);
+            
+        
+
+        marker_e1cf8ea1f8047364cff62db205c04c85.bindPopup(popup_9b2fb29616214a2588c45bd8e8d09229)
+        ;
+
+        
+    
+    
+                marker_e1cf8ea1f8047364cff62db205c04c85.setIcon(div_icon_6678f8692fa8bdc25e189fe7fa161350);
+            
+    
+            var marker_cf1cbefbc441b6366a283e2df68fd15a = L.marker(
+                [22.39286, 113.97719],
+                {
+}
+            ).addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var div_icon_e36e4ca795f85ab2f8520f7e5d6159b7 = L.divIcon({
+  "html": "\n    \u003cdiv style=\"\n        background-color: #D32F2F;\n        color: white;\n        border-radius: 50%;\n        width: 28px;\n        height: 28px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 14px;\n        border: 2px solid white;\n        box-shadow: 0px 2px 6px rgba(0,0,0,0.4);\n    \"\u003e6\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+        var popup_b15eddfa8877a0d6b2670d76241d282f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_6cbea6f462d6b33e25a151e52e2bba12 = $(`<div id="html_6cbea6f462d6b33e25a151e52e2bba12" style="width: 100.0%; height: 100.0%;"><b>6. 屯門市廣場 一期 TmT Plaza phase 1</b></div>`)[0];
+                popup_b15eddfa8877a0d6b2670d76241d282f.setContent(html_6cbea6f462d6b33e25a151e52e2bba12);
+            
+        
+
+        marker_cf1cbefbc441b6366a283e2df68fd15a.bindPopup(popup_b15eddfa8877a0d6b2670d76241d282f)
+        ;
+
+        
+    
+    
+                marker_cf1cbefbc441b6366a283e2df68fd15a.setIcon(div_icon_e36e4ca795f85ab2f8520f7e5d6159b7);
+            
+    
+            var marker_a92856357ebb1f852b2eb495afec53d7 = L.marker(
+                [22.39184, 113.97805],
+                {
+}
+            ).addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var div_icon_2ef46546b54d05a89bbc150a701297bb = L.divIcon({
+  "html": "\n    \u003cdiv style=\"\n        background-color: #F9C74F;\n        color: white;\n        border-radius: 50%;\n        width: 28px;\n        height: 28px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 14px;\n        border: 2px solid white;\n        box-shadow: 0px 2px 6px rgba(0,0,0,0.4);\n    \"\u003e7\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+        var popup_5f8ebc3f31b604012ee36ed03325ca07 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_b6a051cf1fe48b5062582d045bc3b870 = $(`<div id="html_b6a051cf1fe48b5062582d045bc3b870" style="width: 100.0%; height: 100.0%;"><b>7. 華都商場/華都大道 WALDORF SHOPPING CENTRE/ Waldorf Avenue</b></div>`)[0];
+                popup_5f8ebc3f31b604012ee36ed03325ca07.setContent(html_b6a051cf1fe48b5062582d045bc3b870);
+            
+        
+
+        marker_a92856357ebb1f852b2eb495afec53d7.bindPopup(popup_5f8ebc3f31b604012ee36ed03325ca07)
+        ;
+
+        
+    
+    
+                marker_a92856357ebb1f852b2eb495afec53d7.setIcon(div_icon_2ef46546b54d05a89bbc150a701297bb);
+            
+    
+            var marker_28bd1e561fc61455231ad1bf45cbd63c = L.marker(
+                [22.39087, 113.9783],
+                {
+}
+            ).addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var div_icon_4c101908e25c63b25fd5600757025dd8 = L.divIcon({
+  "html": "\n    \u003cdiv style=\"\n        background-color: #277DA1;\n        color: white;\n        border-radius: 50%;\n        width: 28px;\n        height: 28px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 14px;\n        border: 2px solid white;\n        box-shadow: 0px 2px 6px rgba(0,0,0,0.4);\n    \"\u003e8\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+        var popup_3bd248082b347eff08d3fa3e5fedec92 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_92f3ced4478d50e4d02d83ac9a77f8d7 = $(`<div id="html_92f3ced4478d50e4d02d83ac9a77f8d7" style="width: 100.0%; height: 100.0%;"><b>8. 新都 New Town Commercial Arcade</b></div>`)[0];
+                popup_3bd248082b347eff08d3fa3e5fedec92.setContent(html_92f3ced4478d50e4d02d83ac9a77f8d7);
+            
+        
+
+        marker_28bd1e561fc61455231ad1bf45cbd63c.bindPopup(popup_3bd248082b347eff08d3fa3e5fedec92)
+        ;
+
+        
+    
+    
+                marker_28bd1e561fc61455231ad1bf45cbd63c.setIcon(div_icon_4c101908e25c63b25fd5600757025dd8);
+            
+    
+            var marker_ecbbfa219d5d403ff2dee897a018586d = L.marker(
+                [22.39494, 113.97303],
+                {
+}
+            ).addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var div_icon_42fdf8f78cd1987174ce9049700cbff1 = L.divIcon({
+  "html": "\n    \u003cdiv style=\"\n        background-color: #1D3557;\n        color: white;\n        border-radius: 50%;\n        width: 28px;\n        height: 28px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 14px;\n        border: 2px solid white;\n        box-shadow: 0px 2px 6px rgba(0,0,0,0.4);\n    \"\u003e9\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+        var popup_df2f8da288993f799cde83f2c106d497 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_458fd29d9392a39f57de027b3ddf24aa = $(`<div id="html_458fd29d9392a39f57de027b3ddf24aa" style="width: 100.0%; height: 100.0%;"><b>9. Tuen Mun Station (MTR)</b></div>`)[0];
+                popup_df2f8da288993f799cde83f2c106d497.setContent(html_458fd29d9392a39f57de027b3ddf24aa);
+            
+        
+
+        marker_ecbbfa219d5d403ff2dee897a018586d.bindPopup(popup_df2f8da288993f799cde83f2c106d497)
+        ;
+
+        
+    
+    
+                marker_ecbbfa219d5d403ff2dee897a018586d.setIcon(div_icon_42fdf8f78cd1987174ce9049700cbff1);
+            
+    
+            var marker_9fd9de170f7707083714ff4981a7a0b6 = L.marker(
+                [22.3938, 113.97326],
+                {
+}
+            ).addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var div_icon_10a5b9e5fa5d68059d751d05d2b6b16a = L.divIcon({
+  "html": "\n    \u003cdiv style=\"\n        background-color: #457B9D;\n        color: white;\n        border-radius: 50%;\n        width: 28px;\n        height: 28px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 14px;\n        border: 2px solid white;\n        box-shadow: 0px 2px 6px rgba(0,0,0,0.4);\n    \"\u003e10\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+        var popup_e952105ee03c4e8631a678892b570ce1 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_62b76200bf11bac39e6222802dcb6303 = $(`<div id="html_62b76200bf11bac39e6222802dcb6303" style="width: 100.0%; height: 100.0%;"><b>10. Tuen Mun Station (Light Rail)</b></div>`)[0];
+                popup_e952105ee03c4e8631a678892b570ce1.setContent(html_62b76200bf11bac39e6222802dcb6303);
+            
+        
+
+        marker_9fd9de170f7707083714ff4981a7a0b6.bindPopup(popup_e952105ee03c4e8631a678892b570ce1)
+        ;
+
+        
+    
+    
+                marker_9fd9de170f7707083714ff4981a7a0b6.setIcon(div_icon_10a5b9e5fa5d68059d751d05d2b6b16a);
+            
+    
+            var marker_f2f6241adb731a4ce3648b3e2158c30d = L.marker(
+                [22.3974, 113.97313],
+                {
+}
+            ).addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var div_icon_500308fe60c0cf4c31ba3d9fa3122505 = L.divIcon({
+  "html": "\n    \u003cdiv style=\"\n        background-color: #A8DADC;\n        color: white;\n        border-radius: 50%;\n        width: 28px;\n        height: 28px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 14px;\n        border: 2px solid white;\n        box-shadow: 0px 2px 6px rgba(0,0,0,0.4);\n    \"\u003e11\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+        var popup_c7809e6cb0f0f615f166f4bbefa2d1a9 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0cd68b6b786e1066c1ca8a7806e38f29 = $(`<div id="html_0cd68b6b786e1066c1ca8a7806e38f29" style="width: 100.0%; height: 100.0%;"><b>11. Ho Tin Station (Light Rail)</b></div>`)[0];
+                popup_c7809e6cb0f0f615f166f4bbefa2d1a9.setContent(html_0cd68b6b786e1066c1ca8a7806e38f29);
+            
+        
+
+        marker_f2f6241adb731a4ce3648b3e2158c30d.bindPopup(popup_c7809e6cb0f0f615f166f4bbefa2d1a9)
+        ;
+
+        
+    
+    
+                marker_f2f6241adb731a4ce3648b3e2158c30d.setIcon(div_icon_500308fe60c0cf4c31ba3d9fa3122505);
+            
+    
+            var marker_8b5b32a040ace6eede2822f26d0f4a5c = L.marker(
+                [22.39461, 113.9768],
+                {
+}
+            ).addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var div_icon_953c3da0ae5c531af3def460f0dfa002 = L.divIcon({
+  "html": "\n    \u003cdiv style=\"\n        background-color: #6A4C93;\n        color: white;\n        border-radius: 50%;\n        width: 28px;\n        height: 28px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 14px;\n        border: 2px solid white;\n        box-shadow: 0px 2px 6px rgba(0,0,0,0.4);\n    \"\u003e12\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+        var popup_cf25e02264f0066880639eed2637ca15 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_42919997a19963caaac6ad2e5a26b086 = $(`<div id="html_42919997a19963caaac6ad2e5a26b086" style="width: 100.0%; height: 100.0%;"><b>12. Pui To Station (Light Rail)</b></div>`)[0];
+                popup_cf25e02264f0066880639eed2637ca15.setContent(html_42919997a19963caaac6ad2e5a26b086);
+            
+        
+
+        marker_8b5b32a040ace6eede2822f26d0f4a5c.bindPopup(popup_cf25e02264f0066880639eed2637ca15)
+        ;
+
+        
+    
+    
+                marker_8b5b32a040ace6eede2822f26d0f4a5c.setIcon(div_icon_953c3da0ae5c531af3def460f0dfa002);
+            
+    
+            var marker_e9697c6bd6b352179d9d6fcaae5e0357 = L.marker(
+                [22.39141, 113.97498],
+                {
+}
+            ).addTo(map_5eb69e0e5d441622f1b56dca87ff4ad8);
+        
+    
+            var div_icon_557fe135703054bfb000273bbff9506f = L.divIcon({
+  "html": "\n    \u003cdiv style=\"\n        background-color: #1982C4;\n        color: white;\n        border-radius: 50%;\n        width: 28px;\n        height: 28px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-weight: bold;\n        font-size: 14px;\n        border: 2px solid white;\n        box-shadow: 0px 2px 6px rgba(0,0,0,0.4);\n    \"\u003e13\u003c/div\u003e\n    ",
+  "className": "empty",
+});
+        
+    
+        var popup_be9551414d00ba44e944fcb07292ca5f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_78f7a0fd97bc6679b28f02619f0c1bea = $(`<div id="html_78f7a0fd97bc6679b28f02619f0c1bea" style="width: 100.0%; height: 100.0%;"><b>13. Town Centre Station (Light Rail)</b></div>`)[0];
+                popup_be9551414d00ba44e944fcb07292ca5f.setContent(html_78f7a0fd97bc6679b28f02619f0c1bea);
+            
+        
+
+        marker_e9697c6bd6b352179d9d6fcaae5e0357.bindPopup(popup_be9551414d00ba44e944fcb07292ca5f)
+        ;
+
+        
+    
+    
+                marker_e9697c6bd6b352179d9d6fcaae5e0357.setIcon(div_icon_557fe135703054bfb000273bbff9506f);
+            
+</script>
+</html>
