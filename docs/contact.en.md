@@ -42,11 +42,6 @@ Below is the information regarding various student organizations and their Insta
 | Photographic Society | 攝影學會 | [@lingnanphotosoc](https://www.instagram.com/lingnanphotosoc/) |
 | Rotaract Club | 扶青社 | N/A |
 
-### Students' Union
-| Organization Name (English) | Organization Name (Chinese) | Instagram |
-| :--- | :--- | :--- |
-| Lingnan University Students’ Union | 嶺南大學學生會 | [@lingusu_](https://www.instagram.com/lingusu_/) |
-
-Last Modified: July 27, 2026
+Last Modified: August 7, 2026
 
 Editor: Daniel
