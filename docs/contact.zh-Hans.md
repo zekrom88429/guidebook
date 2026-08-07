@@ -42,12 +42,6 @@
 | Photographic Society | 摄影学会 | [@lingnanphotosoc](https://www.instagram.com/lingnanphotosoc/) |
 | Rotaract Club | 扶青社 | N/A |
 
-### 学生会（Students' Union）
-| 组织名称 (English) | 组织名称 (中文) | Instagram |
-| :--- | :--- | :--- |
-| Lingnan University Students’ Union | 岭南大学学生会 | [@lingusu_](https://www.instagram.com/lingusu_/) |
-
-
-最后修改日期：2026年7月27日
+最后修改日期：2026年8月7日
 
 编者：Daniel
