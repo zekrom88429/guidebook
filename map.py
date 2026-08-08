@@ -1,5 +1,6 @@
 import folium
 
+# 13 個地點資料
 locations = [
     {"id": 1, "name": "V City", "coords": [22.3953572, 113.97403], "color": "#E63946"},
     {"id": 2, "name": "屯門時代廣場北翼 Tuen Mun Trend Plaza North Wing", "coords": [22.39315, 113.97574], "color": "#2A9D8F"},
@@ -7,7 +8,7 @@ locations = [
     {"id": 4, "name": "錦薈坊 K point", "coords": [22.39384, 113.9755], "color": "#9C27B0"},
     {"id": 5, "name": "屯門市廣場 二期 TmT Plaza phase 2", "coords": [22.39407, 113.97626], "color": "#E91E63"},
     {"id": 6, "name": "屯門市廣場 一期 TmT Plaza phase 1", "coords": [22.39286, 113.97719], "color": "#D32F2F"},
-    {"id": 7, "name": "華都商場/華都大道 WALDORF SHOPPING CENTRE/ Waldorf Avenue", "coords": [22.39184,113.97805], "color": "#F9C74F"},
+    {"id": 7, "name": "華都商場/華都大道 WALDORF SHOPPING CENTRE/ Waldorf Avenue", "coords": [22.39184, 113.97805], "color": "#F9C74F"},
     {"id": 8, "name": "新都 New Town Commercial Arcade", "coords": [22.39087, 113.9783], "color": "#277DA1"},
     {"id": 9, "name": "屯門站 Tuen Mun Station (MTR)", "coords": [22.39494, 113.97303], "color": "#1D3557"},
     {"id": 10, "name": "屯門站 Tuen Mun Station (Light Rail)", "coords": [22.3938, 113.97326], "color": "#457B9D"},
@@ -16,8 +17,31 @@ locations = [
     {"id": 13, "name": "市中心 Town Centre Station (Light Rail)", "coords": [22.39141, 113.97498], "color": "#1982C4"},
 ]
 
-m = folium.Map(location=[22.3925, 113.9762], zoom_start=17, tiles="OpenStreetMap")
+# 步驟 1：使用 folium.Figure 建立明確的像素高度 (500px) 容器
+fig = folium.Figure(width="100%", height="500px")
 
+# 步驟 2：建立地圖並加入 Figure 容器中
+m = folium.Map(
+    location=[22.3925, 113.9762], 
+    zoom_start=17, 
+    tiles="OpenStreetMap"
+).add_to(fig)
+
+# 步驟 3：注入 CSS 覆蓋樣式，避免 iframe 高度被 100% 算成 0px
+iframe_fix_css = """
+<style>
+    html, body, .folium-map, div[id^="map_"] {
+        width: 100% !important;
+        height: 500px !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        position: relative !important;
+    }
+</style>
+"""
+m.get_root().html.add_child(folium.Element(iframe_fix_css))
+
+# 步驟 4：新增帶數字標籤的圓形 Marker
 for loc in locations:
     icon_html = f"""
     <div style="
@@ -41,6 +65,7 @@ for loc in locations:
         popup=folium.Popup(f"<b>{loc['id']}. {loc['name']}</b>", max_width=250)
     ).add_to(m)
 
+# 步驟 5：建立可折疊的圖例選單 (Legend)
 legend_items_html = "".join(
     f"""
     <div style="display: flex; align-items: center; margin-bottom: 4px;">
@@ -87,5 +112,6 @@ legend_html = f"""
 """
 m.get_root().html.add_child(folium.Element(legend_html))
 
+# 保存 HTML 檔案
 m.save("tuen_mun_real_map.html")
-print("地圖已生成！")
+print("tuen_mun_real_map.html 已成功生成（已修正高度問題）！")
