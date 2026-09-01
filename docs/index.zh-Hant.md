@@ -16,3 +16,8 @@
 *   **讀者社群**：想與其他讀者交流心得或討論熱門話題？歡迎加入我們的 [讀者交流群組](https://chat.whatsapp.com/Kl0NomdNOTICpYbbkRbN1B?s=cl&p=i&ilr=2)（請點擊連結加入）。
 
 希望這本指南能為你的大學旅程提供一點助力。祝你在嶺南的四年生活順利且難忘！
+
+最新文章（9月1日更新）：
+
+- [輪椅人士之入lingu建議](weelchair.md)
+- [長時間學習不能保證你得好成績](Longer_hours.md)

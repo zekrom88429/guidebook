@@ -16,3 +16,8 @@ The vitality of this guide stems from the contributions of every Lingnan student
 *   **Reader Community**: Want to exchange ideas or discuss trending topics with fellow students? Join our [Reader Discussion Group](https://chat.whatsapp.com/Kl0NomdNOTICpYbbkRbN1B?s=cl&p=i&ilr=2) (Click the link to join).
 
 We hope this guide provides a helping hand throughout your university journey. Wishing you a fulfilling and memorable four years at Lingnan!
+
+New Article ( Update on Sept 1):
+
+- [Advice for Wheelchair Users in Lingnan](weelchair.md)
+- [How to Get a High GPA Without Making University All About Studying](Longer_hours.md)
